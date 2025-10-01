@@ -1,0 +1,38 @@
+scanner:
+  root_path: "~/Desktop"
+  max_depth: 3
+  ignore_dirs:
+    - node_modules
+    - venv
+    - .git
+    - build
+    - dist
+    - __pycache__
+
+  file_patterns:
+    javascript: ["package.json"]
+    python: ["requirements.txt", "setup.py", "pyproject.toml"]
+    flutter: ["pubspec.yaml"]
+    rust: ["Cargo.toml"]
+    go: ["go.mod"]
+
+output:
+  data_dir: "./portfolio-data"
+  copy_assets: true
+  max_asset_size_mb: 5
+
+  screenshot_dirs:
+    - screenshots
+    - docs/images
+    - assets
+    - .github/images
+
+display:
+  auto_feature_threshold: 100
+  default_category: "Uncategorized"
+
+  visibility_rules:
+    - pattern: "test-*"
+      visibility: hidden
+    - pattern: "draft-*"
+      visibility: draft
