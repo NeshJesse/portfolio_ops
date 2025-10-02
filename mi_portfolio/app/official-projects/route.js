@@ -14,7 +14,7 @@ export async function GET() {
       headers: { "Content-Type": "application/json", "Cache-Control": "no-store" },
     });
   } catch (_) {
-    return new Response(JSON.stringify({ slugs: [] }), {
+    return new Response(JSON.stringify({ slugs: [], keys: [] }), {
       status: 200,
       headers: { "Content-Type": "application/json", "Cache-Control": "no-store" },
     });
@@ -24,8 +24,11 @@ export async function GET() {
 export async function POST(request) {
   try {
     const body = await request.json();
+    const keys = Array.isArray(body?.keys) ? body.keys.filter((s) => typeof s === "string") : [];
+    // Backward compatibility: accept slugs too, but prefer keys.
     const slugs = Array.isArray(body?.slugs) ? body.slugs.filter((s) => typeof s === "string") : [];
-    const payload = JSON.stringify({ slugs }, null, 2);
+    const projects = Array.isArray(body?.projects) ? body.projects : [];
+    const payload = JSON.stringify({ keys, slugs, projects }, null, 2);
     const filePath = getOfficialFilePath();
     await fs.promises.mkdir(path.dirname(filePath), { recursive: true });
     await fs.promises.writeFile(filePath, payload, "utf-8");

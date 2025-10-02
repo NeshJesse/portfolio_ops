@@ -19,11 +19,16 @@ export default function CuratePage() {
           fetch("/official-projects", { cache: "no-store" }),
         ]);
         const projJson = await projRes.json();
-        const offJson = await offRes.json().catch(() => ({ slugs: [] }));
+        const offJson = await offRes.json().catch(() => ({ slugs: [], keys: [] }));
         const projects = Array.isArray(projJson) ? projJson : projJson?.projects || [];
         if (!mounted) return;
         setProjects(projects);
-        setSelected(new Set(Array.isArray(offJson?.slugs) ? offJson.slugs : []));
+        const currentKeys = Array.isArray(offJson?.keys) ? offJson.keys : [];
+        const currentSlugs = Array.isArray(offJson?.slugs) ? offJson.slugs : [];
+        const keysFromSlugs = new Set(
+          projects.filter((p) => currentSlugs.includes(p.slug)).map((p) => buildProjectKey(p))
+        );
+        setSelected(new Set([...(currentKeys || []), ...keysFromSlugs]));
       } catch (e) {
         // noop
       } finally {
@@ -40,11 +45,25 @@ export default function CuratePage() {
     return [...projects].sort((a, b) => (a.name || a.slug).localeCompare(b.name || b.slug));
   }, [projects]);
 
-  function toggle(slug) {
+  function buildProjectKey(project) {
+    const preferred =
+      project?.path ||
+      project?.dir ||
+      project?.root ||
+      project?.location ||
+      project?.project_dir ||
+      project?.git?.remote_url ||
+      project?.id;
+    if (preferred) return `${project.slug}::${preferred}`;
+    return `slug::${project.slug}`;
+  }
+
+  function toggleByProject(project) {
+    const key = buildProjectKey(project);
     setSelected((prev) => {
       const next = new Set(prev);
-      if (next.has(slug)) next.delete(slug);
-      else next.add(slug);
+      if (next.has(key)) next.delete(key);
+      else next.add(key);
       return next;
     });
   }
@@ -53,11 +72,12 @@ export default function CuratePage() {
     setSaving(true);
     setMessage("");
     try {
-      const slugs = Array.from(selected);
+      const keys = Array.from(selected);
+      const selectedProjects = sorted.filter((p) => keys.includes(buildProjectKey(p)));
       const res = await fetch("/official-projects", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ slugs }),
+        body: JSON.stringify({ keys, projects: selectedProjects }),
       });
       if (!res.ok) throw new Error("Failed");
       setMessage("Saved ✅");
@@ -86,15 +106,15 @@ export default function CuratePage() {
           </div>
           <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
             {sorted.map((p) => (
-              <li key={p.slug} className="border rounded p-3 flex items-start gap-3">
+              <li key={buildProjectKey(p)} className="border rounded p-3 flex items-start gap-3">
                 <input
-                  id={`cb-${p.slug}`}
+                  id={`cb-${buildProjectKey(p)}`}
                   type="checkbox"
                   className="mt-1"
-                  checked={selected.has(p.slug)}
-                  onChange={() => toggle(p.slug)}
+                  checked={selected.has(buildProjectKey(p))}
+                  onChange={() => toggleByProject(p)}
                 />
-                <label htmlFor={`cb-${p.slug}`} className="cursor-pointer select-none">
+                <label htmlFor={`cb-${buildProjectKey(p)}`} className="cursor-pointer select-none">
                   <div className="font-medium">{p.name || p.slug}</div>
                   {p.metadata?.framework || p.metadata?.language ? (
                     <div className="text-xs text-black/60 dark:text-white/60">

@@ -1,10 +1,14 @@
 {
-  "slugs": [
-    "briefbird",
-    "ganjiboard-web",
-    "slipkitchen-another-copy",
-    "joinclub",
-    "boardmio",
-    "devbrief"
-  ]
+  "keys": [
+    "slipkitchen-another-copy::/home/jake/Desktop/SlipKitchen (another copy)",
+    "briefbird::/home/jake/Desktop/brief_bird",
+    "joinclub::/home/jake/Desktop/joinclub",
+    "ganjiboard-web::/home/jake/Desktop/ganjiboard-web",
+    "jamhuri::/home/jake/Desktop/jamhuri",
+    "miportfolio::/home/jake/Desktop/port_ops/mi_portfolio",
+    "portfoliocli::/home/jake/Desktop/port_ops/portfolio_cli",
+    "vaulta::/home/jake/Desktop/vaulta",
+    "formqr::/home/jake/Desktop/formqr"
+  ],
+  "slugs": []
 }
