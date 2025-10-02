@@ -25,14 +25,7 @@ export default async function ProjectPage({ params }) {
         </div>
       </div>
 
-      {Array.isArray(assets?.screenshots) && assets.screenshots.length > 0 ? (
-        <div className="grid grid-cols-2 gap-3">
-          {assets.screenshots.map((src, i) => (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img key={i} src={`/${src}`} alt={`${name} screenshot ${i + 1}`} className="w-full h-40 object-cover rounded" />
-          ))}
-        </div>
-      ) : null}
+      
 
       {readme?.content ? (
         <article className="prose dark:prose-invert max-w-none">

@@ -1,6 +1,6 @@
 ## mi_portfolio (Next.js) – Frontend for Portfolio-OPs
 
-This Next.js app renders projects discovered by the Python scanner in `../portfolio_ops`. It reads `projects.json` and assets produced by the scanner and provides:
+This Next.js app renders projects discovered by the Python scanner in `../portfolio_cli`. It reads `projects.json` and assets produced by the scanner and provides:
 
 - Project grid at `/`
 - Project detail pages at `/projects/[slug]`
@@ -9,12 +9,12 @@ This Next.js app renders projects discovered by the Python scanner in `../portfo
 
 ### How it integrates with Portfolio-OPs
 
-- The Python CLI (in `../portfolio_ops`) generates data into `../portfolio-data/`:
-  - `../portfolio-data/projects.json`
-  - `../portfolio-data/assets/`
+- The Python CLI (in `../portfolio_cli`) generates data into `../portfolio_cli/portfolio-data/`:
+  - `../portfolio_cli/portfolio-data/projects.json`
+  - `../portfolio_cli/portfolio-data/assets/`
 - During development, this frontend serves those files directly via app routes:
-  - `GET /portfolio-data/projects.json` → reads `../portfolio-data/projects.json`
-  - `GET /portfolio-data/assets/*` → streams from `../portfolio-data/assets/*`
+  - `GET /portfolio-data/projects.json` → reads `../portfolio_cli/portfolio-data/projects.json`
+  - `GET /portfolio-data/assets/*` → streams from `../portfolio_cli/portfolio-data/assets/*`
 - No manual copy step is required for `npm run dev`.
 
 ### Development
@@ -32,16 +32,19 @@ npm run dev
 # Open http://localhost:3000
 ```
 
-As the scanner updates `../portfolio-data`, the frontend reads the latest JSON/assets on refresh.
+As the scanner updates `../portfolio_cli/portfolio-data`, the frontend reads the latest JSON/assets on refresh.
 
 ### Key files
 
-- `app/page.jsx` – Renders project grid using `getProjects()`
+- `app/page.jsx` – Renders `OfficialProjects` (if any) and the full grid using `getProjects()`
 - `app/projects/[slug]/page.jsx` – Detail page (awaits dynamic params per Next.js 15)
-- `app/portfolio-data/projects.json/route.js` – Serves scanner JSON in dev
-- `app/portfolio-data/assets/[...path]/route.js` – Serves scanner assets in dev
+- `app/portfolio-data/projects.json/route.js` – Serves scanner JSON in dev (from `../portfolio_cli/portfolio-data/projects.json`)
+- `app/portfolio-data/assets/[...path]/route.js` – Serves scanner assets in dev (from `../portfolio_cli/portfolio-data/assets/*`)
+ - `app/official-projects/route.js` – GET/POST curated selections saved to `../portfolio_cli/portfolio-data/official-projects.json`
+ - `app/curate/page.jsx` – UI to choose which projects are “official”
 - `components/ProjectCard.jsx`, `components/ProjectGrid.jsx` – UI components
 - `lib/projects.jsx` – Data loader with FS-first, route fallback
+- `lib/official.js` – Helpers to read curated slugs and official projects
 - `lib/markdown.tsx` – Markdown renderer (GFM + Prism highlighting)
 - `next.config.mjs` – `images.unoptimized = true` to keep static-friendly
 
@@ -50,7 +53,7 @@ As the scanner updates `../portfolio-data`, the frontend reads the latest JSON/a
 - `projects.json` can be either:
   - A root-level array: `[ { id, name, slug, metadata, readme, assets, git, ... } ]`
   - Or an object: `{ meta, projects: [ ... ] }`
-- Assets referenced in JSON must exist under `../portfolio-data/assets/`.
+- Assets referenced in JSON must exist under `../portfolio_cli/portfolio-data/assets/`.
 
 ### Production notes
 

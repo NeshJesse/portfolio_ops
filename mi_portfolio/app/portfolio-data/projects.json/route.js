@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 
 export async function GET() {
-  const filePath = path.resolve(process.cwd(), "..", "portfolio-data", "projects.json");
+  const filePath = path.resolve(process.cwd(), "..", "portfolio_cli", "portfolio-data", "projects.json");
   try {
     const data = await fs.promises.readFile(filePath, "utf-8");
     return new Response(data, {

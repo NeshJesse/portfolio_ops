@@ -3,7 +3,7 @@
   "projects": {
     "/home/jake/Desktop/formqr": {
       "last_modified": "2024-12-23T15:41:32.073042",
-      "last_scanned": "2025-09-30T15:45:28.781026",
+      "last_scanned": "2025-10-02T13:32:33.140968",
       "project_data": {
         "id": "a39239acdb44",
         "name": "Formqr",
@@ -70,13 +70,13 @@
         "timestamps": {
           "created": "2024-12-23T14:39:13+03:00",
           "modified": "2024-12-23T15:41:32.073042",
-          "last_scanned": "2025-09-30T15:45:28.781026"
+          "last_scanned": "2025-10-02T13:32:33.140968"
         }
       }
     },
     "/home/jake/Desktop/pronto-cart": {
       "last_modified": "2025-06-26T16:51:18.579775",
-      "last_scanned": "2025-09-30T15:45:29.814362",
+      "last_scanned": "2025-10-02T13:32:33.357706",
       "project_data": {
         "id": "4a0641d04095",
         "name": "Rapido Cart",
@@ -138,13 +138,13 @@
         "timestamps": {
           "created": "2025-06-26T16:29:42+03:00",
           "modified": "2025-06-26T16:51:18.579775",
-          "last_scanned": "2025-09-30T15:45:29.814362"
+          "last_scanned": "2025-10-02T13:32:33.357706"
         }
       }
     },
     "/home/jake/Desktop/JMAP2": {
       "last_modified": "2025-01-12T10:31:07.657588",
-      "last_scanned": "2025-09-30T15:45:34.047182",
+      "last_scanned": "2025-10-02T13:32:34.049347",
       "project_data": {
         "id": "d79f4657f0f3",
         "name": "Mapper",
@@ -217,13 +217,13 @@
         "timestamps": {
           "created": "2025-01-04T12:24:28+03:00",
           "modified": "2025-01-12T10:31:07.657588",
-          "last_scanned": "2025-09-30T15:45:34.047182"
+          "last_scanned": "2025-10-02T13:32:34.049347"
         }
       }
     },
     "/home/jake/Desktop/scraper-footstats": {
       "last_modified": "2025-07-13T13:03:46.643466",
-      "last_scanned": "2025-09-30T15:45:34.049131",
+      "last_scanned": "2025-10-02T13:32:34.050402",
       "project_data": {
         "id": "e3719da80548",
         "name": "Scraper Footstats",
@@ -281,13 +281,13 @@
         "timestamps": {
           "created": "2025-07-13T13:03:46.643466",
           "modified": "2025-07-13T13:03:46.643466",
-          "last_scanned": "2025-09-30T15:45:34.049131"
+          "last_scanned": "2025-10-02T13:32:34.050402"
         }
       }
     },
     "/home/jake/Desktop/speed-cart": {
       "last_modified": "2025-06-20T15:44:20.436164",
-      "last_scanned": "2025-09-30T15:45:36.567261",
+      "last_scanned": "2025-10-02T13:32:34.473754",
       "project_data": {
         "id": "0594aa091e20",
         "name": "Speed Cart",
@@ -366,13 +366,13 @@
         "timestamps": {
           "created": "2025-06-20T15:44:20.436164",
           "modified": "2025-06-20T15:44:20.436164",
-          "last_scanned": "2025-09-30T15:45:36.567261"
+          "last_scanned": "2025-10-02T13:32:34.473754"
         }
       }
     },
     "/home/jake/Desktop/polilist": {
       "last_modified": "2025-05-12T16:13:29.807471",
-      "last_scanned": "2025-09-30T15:45:37.777791",
+      "last_scanned": "2025-10-02T13:32:34.786104",
       "project_data": {
         "id": "afcc58961b7c",
         "name": "Polilist",
@@ -442,13 +442,13 @@
         "timestamps": {
           "created": "2025-04-02T11:54:49+03:00",
           "modified": "2025-05-12T16:13:29.807471",
-          "last_scanned": "2025-09-30T15:45:37.777791"
+          "last_scanned": "2025-10-02T13:32:34.786104"
         }
       }
     },
     "/home/jake/Desktop/rapido-cart": {
       "last_modified": "2025-06-26T16:21:10.692765",
-      "last_scanned": "2025-09-30T15:45:38.942675",
+      "last_scanned": "2025-10-02T13:32:35.101636",
       "project_data": {
         "id": "889146dd6f4d",
         "name": "Rapido Cart",
@@ -514,13 +514,13 @@
         "timestamps": {
           "created": "2025-06-19T15:12:41+03:00",
           "modified": "2025-06-26T16:21:10.692765",
-          "last_scanned": "2025-09-30T15:45:38.942675"
+          "last_scanned": "2025-10-02T13:32:35.101636"
         }
       }
     },
     "/home/jake/Desktop/bet_glass": {
       "last_modified": "2025-07-12T20:13:58.381250",
-      "last_scanned": "2025-09-30T15:45:39.285845",
+      "last_scanned": "2025-10-02T13:32:35.328708",
       "project_data": {
         "id": "4ac1b896473d",
         "name": "Bet_Planner",
@@ -598,13 +598,13 @@
         "timestamps": {
           "created": "2025-07-12T20:13:58.381250",
           "modified": "2025-07-12T20:13:58.381250",
-          "last_scanned": "2025-09-30T15:45:39.285845"
+          "last_scanned": "2025-10-02T13:32:35.328708"
         }
       }
     },
     "/home/jake/Desktop/ganji_planner": {
       "last_modified": "2025-08-10T23:11:00.616580",
-      "last_scanned": "2025-09-30T15:45:39.441797",
+      "last_scanned": "2025-10-02T13:32:35.355619",
       "project_data": {
         "id": "1b716defcf3c",
         "name": "Money Planner",
@@ -681,13 +681,13 @@
         "timestamps": {
           "created": "2025-08-08T13:35:56+03:00",
           "modified": "2025-08-10T23:11:00.616580",
-          "last_scanned": "2025-09-30T15:45:39.441797"
+          "last_scanned": "2025-10-02T13:32:35.355619"
         }
       }
     },
     "/home/jake/Desktop/c/brief2": {
       "last_modified": "2025-07-14T14:15:42.001839",
-      "last_scanned": "2025-09-30T15:45:39.479865",
+      "last_scanned": "2025-10-02T13:32:35.373816",
       "project_data": {
         "id": "265f644af1c1",
         "name": "Dev Brief",
@@ -759,13 +759,13 @@
         "timestamps": {
           "created": "2025-07-14T14:15:42.001839",
           "modified": "2025-07-14T14:15:42.001839",
-          "last_scanned": "2025-09-30T15:45:39.479865"
+          "last_scanned": "2025-10-02T13:32:35.373816"
         }
       }
     },
     "/home/jake/Desktop/c/auto-tool": {
       "last_modified": "2025-06-21T21:47:33.887658",
-      "last_scanned": "2025-09-30T15:45:40.437490",
+      "last_scanned": "2025-10-02T13:32:35.659176",
       "project_data": {
         "id": "37bcee476c5b",
         "name": "Auto Tool",
@@ -832,13 +832,13 @@
         "timestamps": {
           "created": "2025-06-21T20:08:33+03:00",
           "modified": "2025-06-21T21:47:33.887658",
-          "last_scanned": "2025-09-30T15:45:40.437490"
+          "last_scanned": "2025-10-02T13:32:35.659176"
         }
       }
     },
     "/home/jake/Desktop/auto-tool": {
       "last_modified": "2025-06-21T23:55:28.630365",
-      "last_scanned": "2025-09-30T15:45:41.617222",
+      "last_scanned": "2025-10-02T13:32:35.938281",
       "project_data": {
         "id": "b69fd3d84c02",
         "name": "Auto Tool",
@@ -917,13 +917,13 @@
         "timestamps": {
           "created": "2025-06-21T20:08:33+03:00",
           "modified": "2025-06-21T23:55:28.630365",
-          "last_scanned": "2025-09-30T15:45:41.617222"
+          "last_scanned": "2025-10-02T13:32:35.938281"
         }
       }
     },
     "/home/jake/Desktop/projoz/shipmate": {
       "last_modified": "2025-06-29T15:04:30.007715",
-      "last_scanned": "2025-09-30T15:45:41.722539",
+      "last_scanned": "2025-10-02T13:32:35.956867",
       "project_data": {
         "id": "d89982c1c8d1",
         "name": "Shipmate",
@@ -1017,13 +1017,13 @@
         "timestamps": {
           "created": "2025-06-29T15:07:33.263200",
           "modified": "2025-06-29T15:04:30.007715",
-          "last_scanned": "2025-09-30T15:45:41.722539"
+          "last_scanned": "2025-10-02T13:32:35.956867"
         }
       }
     },
     "/home/jake/Desktop/projoz/shipmate (1)": {
       "last_modified": "2025-06-29T15:04:30.007715",
-      "last_scanned": "2025-09-30T15:45:41.827560",
+      "last_scanned": "2025-10-02T13:32:35.975462",
       "project_data": {
         "id": "9eb6d7e78e66",
         "name": "Shipmate",
@@ -1117,13 +1117,13 @@
         "timestamps": {
           "created": "2025-06-30T12:15:08.590297",
           "modified": "2025-06-29T15:04:30.007715",
-          "last_scanned": "2025-09-30T15:45:41.827560"
+          "last_scanned": "2025-10-02T13:32:35.975462"
         }
       }
     },
     "/home/jake/Desktop/projoz/poli_list": {
       "last_modified": "2024-12-23T15:41:32.073042",
-      "last_scanned": "2025-09-30T15:45:43.112529",
+      "last_scanned": "2025-10-02T13:32:36.363512",
       "project_data": {
         "id": "bac003aeeffd",
         "name": "Polilist",
@@ -1190,13 +1190,13 @@
         "timestamps": {
           "created": "2024-12-23T14:39:13+03:00",
           "modified": "2024-12-23T15:41:32.073042",
-          "last_scanned": "2025-09-30T15:45:43.112529"
+          "last_scanned": "2025-10-02T13:32:36.363512"
         }
       }
     },
     "/home/jake/Desktop/cave_keeper": {
       "last_modified": "2025-07-02T17:49:15.253868",
-      "last_scanned": "2025-09-30T15:45:43.421655",
+      "last_scanned": "2025-10-02T13:32:36.403913",
       "project_data": {
         "id": "c9ba0b27fc5e",
         "name": "Cave Keeper",
@@ -1272,13 +1272,13 @@
         "timestamps": {
           "created": "2025-07-01T15:37:00+03:00",
           "modified": "2025-07-02T17:49:15.253868",
-          "last_scanned": "2025-09-30T15:45:43.421655"
+          "last_scanned": "2025-10-02T13:32:36.403913"
         }
       }
     },
     "/home/jake/Desktop/jamhuri": {
       "last_modified": "2025-09-18T14:01:19.875169",
-      "last_scanned": "2025-09-30T15:45:44.227602",
+      "last_scanned": "2025-10-02T13:32:36.624974",
       "project_data": {
         "id": "8fe92091051a",
         "name": "Jamhuri",
@@ -1359,13 +1359,13 @@
         "timestamps": {
           "created": "2025-09-18T13:53:41+03:00",
           "modified": "2025-09-18T14:01:19.875169",
-          "last_scanned": "2025-09-30T15:45:44.227602"
+          "last_scanned": "2025-10-02T13:32:36.624974"
         }
       }
     },
     "/home/jake/Desktop/dev_cradle": {
       "last_modified": "2025-07-06T14:40:10.490187",
-      "last_scanned": "2025-09-30T15:45:44.504696",
+      "last_scanned": "2025-10-02T13:32:36.658945",
       "project_data": {
         "id": "2497d805671e",
         "name": "Dev Cradle",
@@ -1428,13 +1428,13 @@
         "timestamps": {
           "created": "2025-07-06T14:40:10+03:00",
           "modified": "2025-07-06T14:40:10.490187",
-          "last_scanned": "2025-09-30T15:45:44.504696"
+          "last_scanned": "2025-10-02T13:32:36.658945"
         }
       }
     },
     "/home/jake/Desktop/shipmate-main": {
       "last_modified": "2025-07-01T14:47:34.644654",
-      "last_scanned": "2025-09-30T15:45:44.522904",
+      "last_scanned": "2025-10-02T13:32:36.669759",
       "project_data": {
         "id": "7094bfc8fe98",
         "name": "Shipmate",
@@ -1508,13 +1508,13 @@
         "timestamps": {
           "created": "2025-07-01T14:47:34.644654",
           "modified": "2025-07-01T14:47:34.644654",
-          "last_scanned": "2025-09-30T15:45:44.522904"
+          "last_scanned": "2025-10-02T13:32:36.669759"
         }
       }
     },
     "/home/jake/Desktop/drgambling": {
       "last_modified": "2025-04-23T20:38:35.116958",
-      "last_scanned": "2025-09-30T15:45:44.723887",
+      "last_scanned": "2025-10-02T13:32:36.700825",
       "project_data": {
         "id": "3288183ebbe6",
         "name": "Drgambling",
@@ -1583,13 +1583,13 @@
         "timestamps": {
           "created": "2025-04-23T20:10:07+03:00",
           "modified": "2025-04-23T20:38:35.116958",
-          "last_scanned": "2025-09-30T15:45:44.723887"
+          "last_scanned": "2025-10-02T13:32:36.700825"
         }
       }
     },
     "/home/jake/Desktop/nesh-codex": {
       "last_modified": "2025-08-23T20:44:52.632292",
-      "last_scanned": "2025-09-30T15:45:45.550416",
+      "last_scanned": "2025-10-02T13:32:36.909353",
       "project_data": {
         "id": "36aa381a6574",
         "name": "Nesh Codex",
@@ -1649,13 +1649,97 @@
         "timestamps": {
           "created": "2025-08-23T20:43:59+03:00",
           "modified": "2025-08-23T20:44:52.632292",
-          "last_scanned": "2025-09-30T15:45:45.550416"
+          "last_scanned": "2025-10-02T13:32:36.909353"
+        }
+      }
+    },
+    "/home/jake/Desktop/portmaker": {
+      "last_modified": "2025-10-01T12:34:07.112449",
+      "last_scanned": "2025-10-02T13:32:36.919332",
+      "project_data": {
+        "id": "ac3d9caa14f9",
+        "name": "Portmaker",
+        "path": "/home/jake/Desktop/portmaker",
+        "slug": "portmaker",
+        "metadata": {
+          "language": "Python",
+          "framework": "Python",
+          "type": "CLI Tool",
+          "tags": [
+            "python"
+          ]
+        },
+        "readme": {
+          "exists": true,
+          "path": "README.md",
+          "content": "## Portfolio-OPs + mi_portfolio\n\nBuild a living, auto-updating developer portfolio with zero manual data entry.\n\n### What it is\n- **Portfolio-OPs (Python CLI)** scans your Desktop (or any path), detects real projects, extracts metadata/README/screenshots/git stats, and exports a clean `projects.json` + assets.\n- **mi_portfolio (Next.js app)** renders that data into a fast, modern portfolio site: project grid, detail pages, markdown README, and screenshots.\n\nTogether, they turn your actual work into a polished, always-current portfolio.\n\n### Why you’ll love it\n- **Zero copy-paste**: Your READMEs become project descriptions automatically.\n- **Always up-to-date**: One command refreshes data; the site reflects changes instantly in dev.\n- **Real signals**: Git activity, tags, categories, screenshots—no fluff.\n- **Own your data**: Plain JSON + local assets. Portable, inspectable, versionable.\n\n### How it works (concept)\n1) You code as usual in your local projects.\n2) Portfolio-OPs scans and exports data to `portfolio-data/`:\n   - `portfolio-data/projects.json`\n   - `portfolio-data/assets/` (screenshots, logos, thumbnails)\n3) mi_portfolio reads this data and renders your site:\n   - `/` → Project grid\n   - `/projects/[slug]` → Detail page with README and gallery\n\n### Quick start\n```bash\n# 1) Install Python deps\npip3 install -r requirements.txt\n\n# 2) First-time setup\npython3 portfolio.py init\n\n# 3) Generate data\npython3 portfolio.py generate      # or: python3 portfolio.py update\n\n# 4) Run the frontend\ncd mi_portfolio\nnpm install\nnpm run dev\n# Open http://localhost:3000\n```\n\nIn development, the frontend reads directly from `portfolio-data/` (no copy step).\n\n### Daily workflow\n```bash\n# Work on projects as usual, commit, push...\n\n# Refresh portfolio data\npython3 portfolio.py update\n\n# Frontend is already running at http://localhost:3000\n# Refresh the browser to see changes\n```\n\n### Features at a glance\n- Auto-detection of project types (JS/Python/etc.)\n- README → Markdown rendering with code highlighting\n- Screenshots and logos gallery\n- Git stats: last commit, commit count, branch\n- Featured flags, categories, tags\n- Extensible UI (filters, search, badges)\n\n### Production options\n- Copy `portfolio-data/` into `mi_portfolio/public/portfolio-data/` during CI\n- Or keep server routes that read from a mounted `portfolio-data/` directory\n\n### Customize\n- Update cards and detail UI in `mi_portfolio/components/` and `app/`\n- Adjust data parsing in `mi_portfolio/lib/projects.jsx`\n- Add filters/search, badges, and layout to fit your brand\n\n### Where to look next\n- `portfolio_ops/` → Scanner logic, detectors, README parsing, git analysis\n- `portfolio-data/` → Output JSON + assets\n- `mi_portfolio/tech.md` → Deep technical docs for the frontend\n\nBuild once, keep shipping—your portfolio stays fresh.\n\n**Happy Portfolio Building! 🚀**",
+          "preview": "Build a living, auto-updating developer portfolio with zero manual data entry.",
+          "headings": [
+            "Portfolio-OPs + mi_portfolio",
+            "What it is",
+            "Why you’ll love it",
+            "How it works (concept)",
+            "Quick start",
+            "1) Install Python deps",
+            "2) First-time setup",
+            "3) Generate data",
+            "4) Run the frontend",
+            "Open http://localhost:3000",
+            "Daily workflow",
+            "Work on projects as usual, commit, push...",
+            "Refresh portfolio data",
+            "Frontend is already running at http://localhost:3000",
+            "Refresh the browser to see changes",
+            "Features at a glance",
+            "Production options",
+            "Customize",
+            "Where to look next"
+          ],
+          "has_demo": false,
+          "demo_url": null,
+          "word_count": 395
+        },
+        "assets": {
+          "screenshots": [],
+          "logo": null,
+          "thumbnail": null
+        },
+        "git": {
+          "is_repo": true,
+          "remote_url": "https://github.com/NeshJesse/work-tracker.git",
+          "last_commit": "2025-07-29T21:17:16+03:00",
+          "first_commit": "2025-07-29T21:17:16+03:00",
+          "total_commits": 1,
+          "branch": "main",
+          "is_archived": false
+        },
+        "stats": {
+          "lines_of_code": 1390,
+          "file_count": 50,
+          "has_tests": false,
+          "test_coverage": null,
+          "has_ci": false,
+          "has_docs": true,
+          "documentation_completeness": 80
+        },
+        "display": {
+          "featured": false,
+          "priority": 0,
+          "category": "CLI Tools",
+          "status": "Unknown",
+          "visibility": "public",
+          "custom_description": null
+        },
+        "timestamps": {
+          "created": "2025-07-29T21:17:16+03:00",
+          "modified": "2025-10-01T12:34:07.112449",
+          "last_scanned": "2025-10-02T13:32:36.919332"
         }
       }
     },
     "/home/jake/Desktop/code_cradle_web": {
       "last_modified": "2025-07-04T12:20:18.594057",
-      "last_scanned": "2025-09-30T15:45:46.356883",
+      "last_scanned": "2025-10-02T13:32:37.087896",
       "project_data": {
         "id": "3007d9f13bd6",
         "name": "Code_Cradle_Web",
@@ -1732,13 +1816,13 @@
         "timestamps": {
           "created": "2025-07-04T09:10:27+03:00",
           "modified": "2025-07-04T12:20:18.594057",
-          "last_scanned": "2025-09-30T15:45:46.356883"
+          "last_scanned": "2025-10-02T13:32:37.087896"
         }
       }
     },
     "/home/jake/Desktop/ganjiboard": {
       "last_modified": "2025-08-16T23:36:24.465027",
-      "last_scanned": "2025-09-30T15:45:47.297898",
+      "last_scanned": "2025-10-02T13:32:37.258514",
       "project_data": {
         "id": "6bd663438c13",
         "name": "Ganjiboard",
@@ -1805,13 +1889,13 @@
         "timestamps": {
           "created": "2025-08-13T22:45:58+03:00",
           "modified": "2025-08-16T23:36:24.465027",
-          "last_scanned": "2025-09-30T15:45:47.297898"
+          "last_scanned": "2025-10-02T13:32:37.258514"
         }
       }
     },
     "/home/jake/Desktop/bet_planner": {
       "last_modified": "2025-07-17T09:49:40.428427",
-      "last_scanned": "2025-09-30T15:45:48.826047",
+      "last_scanned": "2025-10-02T13:32:37.586404",
       "project_data": {
         "id": "ec57b811168e",
         "name": "Bet_Planner",
@@ -1889,13 +1973,13 @@
         "timestamps": {
           "created": "2025-07-04T20:09:13+03:00",
           "modified": "2025-07-17T09:49:40.428427",
-          "last_scanned": "2025-09-30T15:45:48.826047"
+          "last_scanned": "2025-10-02T13:32:37.586404"
         }
       }
     },
     "/home/jake/Desktop/dukaloco": {
       "last_modified": "2025-01-02T20:23:28.204130",
-      "last_scanned": "2025-09-30T15:45:52.542691",
+      "last_scanned": "2025-10-02T13:32:38.256352",
       "project_data": {
         "id": "ef085306916a",
         "name": "Dukaloco",
@@ -1970,13 +2054,13 @@
         "timestamps": {
           "created": "2025-01-02T20:02:49+03:00",
           "modified": "2025-01-02T20:23:28.204130",
-          "last_scanned": "2025-09-30T15:45:52.542691"
+          "last_scanned": "2025-10-02T13:32:38.256352"
         }
       }
     },
     "/home/jake/Desktop/codexmio": {
       "last_modified": "2025-08-25T10:51:27.189550",
-      "last_scanned": "2025-09-30T15:45:52.561865",
+      "last_scanned": "2025-10-02T13:32:38.267305",
       "project_data": {
         "id": "7e828ce697af",
         "name": "Codexmio",
@@ -2038,13 +2122,13 @@
         "timestamps": {
           "created": "2025-08-25T10:51:27.189550",
           "modified": "2025-08-25T10:51:27.189550",
-          "last_scanned": "2025-09-30T15:45:52.561865"
+          "last_scanned": "2025-10-02T13:32:38.267305"
         }
       }
     },
     "/home/jake/Desktop/devbriefer": {
       "last_modified": "2025-07-22T22:41:53.772317",
-      "last_scanned": "2025-09-30T15:45:52.632272",
+      "last_scanned": "2025-10-02T13:32:38.286990",
       "project_data": {
         "id": "4af8c70c290d",
         "name": "Devbriefer",
@@ -2110,13 +2194,13 @@
         "timestamps": {
           "created": "2025-07-22T22:41:53.772317",
           "modified": "2025-07-22T22:41:53.772317",
-          "last_scanned": "2025-09-30T15:45:52.632272"
+          "last_scanned": "2025-10-02T13:32:38.286990"
         }
       }
     },
     "/home/jake/Desktop/jnav": {
       "last_modified": "2025-03-26T10:42:34.062707",
-      "last_scanned": "2025-09-30T15:45:52.754806",
+      "last_scanned": "2025-10-02T13:32:38.310577",
       "project_data": {
         "id": "c24660726cb8",
         "name": "Flutter Mapper",
@@ -2189,13 +2273,13 @@
         "timestamps": {
           "created": "2025-02-06T13:08:59+03:00",
           "modified": "2025-03-26T10:42:34.062707",
-          "last_scanned": "2025-09-30T15:45:52.754806"
+          "last_scanned": "2025-10-02T13:32:38.310577"
         }
       }
     },
     "/home/jake/Desktop/money_planner": {
       "last_modified": "2025-08-10T22:56:13.736710",
-      "last_scanned": "2025-09-30T15:45:52.905672",
+      "last_scanned": "2025-10-02T13:32:38.339203",
       "project_data": {
         "id": "38c0865c0258",
         "name": "Money Planner",
@@ -2272,13 +2356,13 @@
         "timestamps": {
           "created": "2025-08-08T13:35:56+03:00",
           "modified": "2025-08-10T22:56:13.736710",
-          "last_scanned": "2025-09-30T15:45:52.905672"
+          "last_scanned": "2025-10-02T13:32:38.339203"
         }
       }
     },
     "/home/jake/Desktop/vaulta": {
       "last_modified": "2025-09-09T21:22:02.467438",
-      "last_scanned": "2025-09-30T15:45:52.909191",
+      "last_scanned": "2025-10-02T13:32:38.340299",
       "project_data": {
         "id": "30c6918dd452",
         "name": "Vaulta",
@@ -2357,13 +2441,13 @@
         "timestamps": {
           "created": "2025-09-09T21:22:02.467438",
           "modified": "2025-09-09T21:22:02.467438",
-          "last_scanned": "2025-09-30T15:45:52.909191"
+          "last_scanned": "2025-10-02T13:32:38.340299"
         }
       }
     },
     "/home/jake/Desktop/devbrief-electron": {
       "last_modified": "2025-07-25T21:15:41.270088",
-      "last_scanned": "2025-09-30T15:45:53.547336",
+      "last_scanned": "2025-10-02T13:32:38.660681",
       "project_data": {
         "id": "75f94a97bbc4",
         "name": "Dev Brief",
@@ -2426,13 +2510,13 @@
         "timestamps": {
           "created": "2025-07-25T21:15:41.270088",
           "modified": "2025-07-25T21:15:41.270088",
-          "last_scanned": "2025-09-30T15:45:53.547336"
+          "last_scanned": "2025-10-02T13:32:38.660681"
         }
       }
     },
     "/home/jake/Desktop/slip_kitchen": {
       "last_modified": "2025-07-23T12:40:56.272433",
-      "last_scanned": "2025-09-30T15:45:55.145405",
+      "last_scanned": "2025-10-02T13:32:38.968854",
       "project_data": {
         "id": "6af118ea4b9f",
         "name": "Bet_Planner",
@@ -2510,13 +2594,13 @@
         "timestamps": {
           "created": "2025-07-18T10:59:24+03:00",
           "modified": "2025-07-23T12:40:56.272433",
-          "last_scanned": "2025-09-30T15:45:55.145405"
+          "last_scanned": "2025-10-02T13:32:38.968854"
         }
       }
     },
     "/home/jake/Desktop/blogger": {
       "last_modified": "2025-01-11T14:31:12.362132",
-      "last_scanned": "2025-09-30T15:45:59.290540",
+      "last_scanned": "2025-10-02T13:32:39.625858",
       "project_data": {
         "id": "c5f3fea49a5b",
         "name": "Blogger",
@@ -2581,13 +2665,13 @@
         "timestamps": {
           "created": "2025-01-11T11:06:30+03:00",
           "modified": "2025-01-11T14:31:12.362132",
-          "last_scanned": "2025-09-30T15:45:59.290540"
+          "last_scanned": "2025-10-02T13:32:39.625858"
         }
       }
     },
     "/home/jake/Desktop/SlipKitchen (another copy)": {
       "last_modified": "2025-07-29T20:46:48.944462",
-      "last_scanned": "2025-09-30T15:46:02.368304",
+      "last_scanned": "2025-10-02T13:32:40.122377",
       "project_data": {
         "id": "5569d831fa2d",
         "name": "Slipkitchen Ke",
@@ -2665,13 +2749,13 @@
         "timestamps": {
           "created": "2025-07-24T17:13:04+03:00",
           "modified": "2025-07-29T20:46:48.944462",
-          "last_scanned": "2025-09-30T15:46:02.368304"
+          "last_scanned": "2025-10-02T13:32:40.122377"
         }
       }
     },
     "/home/jake/Desktop/ganji_board (copy)": {
       "last_modified": "2025-08-17T00:16:08.396151",
-      "last_scanned": "2025-09-30T15:46:02.591794",
+      "last_scanned": "2025-10-02T13:32:40.156064",
       "project_data": {
         "id": "b14454cae131",
         "name": "Ganji Board",
@@ -2752,13 +2836,13 @@
         "timestamps": {
           "created": "2025-08-08T13:35:56+03:00",
           "modified": "2025-08-17T00:16:08.396151",
-          "last_scanned": "2025-09-30T15:46:02.591794"
+          "last_scanned": "2025-10-02T13:32:40.156064"
         }
       }
     },
     "/home/jake/Desktop/poli": {
       "last_modified": "2025-05-20T21:37:34.814442",
-      "last_scanned": "2025-09-30T15:46:03.516206",
+      "last_scanned": "2025-10-02T13:32:40.358617",
       "project_data": {
         "id": "9080b0f51390",
         "name": "Poli",
@@ -2825,13 +2909,13 @@
         "timestamps": {
           "created": "2025-05-20T19:17:45+03:00",
           "modified": "2025-05-20T21:37:34.814442",
-          "last_scanned": "2025-09-30T15:46:03.516206"
+          "last_scanned": "2025-10-02T13:32:40.358617"
         }
       }
     },
     "/home/jake/Desktop/ganji_board": {
       "last_modified": "2025-08-21T17:12:25.665473",
-      "last_scanned": "2025-09-30T15:46:03.824720",
+      "last_scanned": "2025-10-02T13:32:40.395124",
       "project_data": {
         "id": "6ac01168ac09",
         "name": "Ganji Board",
@@ -2912,13 +2996,13 @@
         "timestamps": {
           "created": "2025-08-08T13:35:56+03:00",
           "modified": "2025-08-21T17:12:25.665473",
-          "last_scanned": "2025-09-30T15:46:03.824720"
+          "last_scanned": "2025-10-02T13:32:40.395124"
         }
       }
     },
     "/home/jake/Desktop/slipkitchen-ke": {
       "last_modified": "2025-07-24T16:51:57.768818",
-      "last_scanned": "2025-09-30T15:46:04.007166",
+      "last_scanned": "2025-10-02T13:32:40.422801",
       "project_data": {
         "id": "0fa402674b5b",
         "name": "Bet_Planner",
@@ -2996,13 +3080,13 @@
         "timestamps": {
           "created": "2025-07-15T12:32:16+03:00",
           "modified": "2025-07-24T16:51:57.768818",
-          "last_scanned": "2025-09-30T15:46:04.007166"
+          "last_scanned": "2025-10-02T13:32:40.422801"
         }
       }
     },
     "/home/jake/Desktop/mock_ui": {
       "last_modified": "2025-09-22T12:26:51.931147",
-      "last_scanned": "2025-09-30T15:46:04.175971",
+      "last_scanned": "2025-10-02T13:32:40.547938",
       "project_data": {
         "id": "97d178396532",
         "name": "Ganjiboard Web",
@@ -3083,13 +3167,13 @@
         "timestamps": {
           "created": "2025-09-22T12:26:51.931147",
           "modified": "2025-09-22T12:26:51.931147",
-          "last_scanned": "2025-09-30T15:46:04.175971"
+          "last_scanned": "2025-10-02T13:32:40.547938"
         }
       }
     },
     "/home/jake/Desktop/dev_briefa": {
       "last_modified": "2025-07-22T15:29:10.375188",
-      "last_scanned": "2025-09-30T15:46:04.230990",
+      "last_scanned": "2025-10-02T13:32:40.570394",
       "project_data": {
         "id": "6785702e9d6e",
         "name": "Dev Briefa",
@@ -3171,13 +3255,156 @@
         "timestamps": {
           "created": "2025-07-22T15:29:10.375188",
           "modified": "2025-07-22T15:29:10.375188",
-          "last_scanned": "2025-09-30T15:46:04.230990"
+          "last_scanned": "2025-10-02T13:32:40.570394"
+        }
+      }
+    },
+    "/home/jake/Desktop/port_ops/portfolio_cli": {
+      "last_modified": "2025-10-02T13:24:04.044774",
+      "last_scanned": "2025-10-02T13:32:40.571776",
+      "project_data": {
+        "id": "aa2b88c7882a",
+        "name": "Portfolio Cli",
+        "path": "/home/jake/Desktop/port_ops/portfolio_cli",
+        "slug": "portfoliocli",
+        "metadata": {
+          "language": "Python",
+          "framework": "Python",
+          "type": "CLI Tool",
+          "tags": [
+            "python"
+          ]
+        },
+        "readme": {
+          "exists": false,
+          "path": null,
+          "content": "",
+          "preview": "",
+          "headings": [],
+          "has_demo": false,
+          "demo_url": null,
+          "word_count": 0
+        },
+        "assets": {
+          "screenshots": [
+            "/home/jake/Desktop/port_ops/portfolio_cli/assets/Screenshot from 2025-09-30 15-46-57.png",
+            "/home/jake/Desktop/port_ops/portfolio_cli/assets/Screenshot from 2025-09-30 15-45-44.png"
+          ],
+          "logo": null,
+          "thumbnail": "/home/jake/Desktop/port_ops/portfolio_cli/assets/Screenshot from 2025-09-30 15-46-57.png"
+        },
+        "git": {
+          "is_repo": false,
+          "remote_url": null,
+          "last_commit": null,
+          "first_commit": null,
+          "total_commits": 0,
+          "branch": null,
+          "is_archived": false
+        },
+        "stats": {
+          "lines_of_code": 1313,
+          "file_count": 16,
+          "has_tests": false,
+          "test_coverage": null,
+          "has_ci": false,
+          "has_docs": false,
+          "documentation_completeness": 0
+        },
+        "display": {
+          "featured": false,
+          "priority": 0,
+          "category": "CLI Tools",
+          "status": "Unknown",
+          "visibility": "public",
+          "custom_description": null
+        },
+        "timestamps": {
+          "created": "2025-10-02T13:24:04.044774",
+          "modified": "2025-10-02T13:24:04.044774",
+          "last_scanned": "2025-10-02T13:32:40.571776"
+        }
+      }
+    },
+    "/home/jake/Desktop/port_ops/mi_portfolio": {
+      "last_modified": "2025-10-01T12:49:31.267225",
+      "last_scanned": "2025-10-02T13:32:40.848121",
+      "project_data": {
+        "id": "ed5019345e12",
+        "name": "Mi_Portfolio",
+        "path": "/home/jake/Desktop/port_ops/mi_portfolio",
+        "slug": "miportfolio",
+        "metadata": {
+          "language": "JavaScript",
+          "framework": "Next.js",
+          "type": "Web App",
+          "tags": [
+            "javascript",
+            "node",
+            "react"
+          ]
+        },
+        "readme": {
+          "exists": true,
+          "path": "README.md",
+          "content": "## mi_portfolio (Next.js) – Frontend for Portfolio-OPs\n\nThis Next.js app renders projects discovered by the Python scanner in `../portfolio_cli`. It reads `projects.json` and assets produced by the scanner and provides:\n\n- Project grid at `/`\n- Project detail pages at `/projects/[slug]`\n- README markdown rendering with code highlighting\n- Direct access to screenshots/logos from the scanner output\n\n### How it integrates with Portfolio-OPs\n\n- The Python CLI (in `../portfolio_cli`) generates data into `../portfolio_cli/portfolio-data/`:\n  - `../portfolio_cli/portfolio-data/projects.json`\n  - `../portfolio_cli/portfolio-data/assets/`\n- During development, this frontend serves those files directly via app routes:\n  - `GET /portfolio-data/projects.json` → reads `../portfolio_cli/portfolio-data/projects.json`\n  - `GET /portfolio-data/assets/*` → streams from `../portfolio_cli/portfolio-data/assets/*`\n- No manual copy step is required for `npm run dev`.\n\n### Development\n\nTerminal 1 (scanner):\n```bash\ncd /home/jake/Desktop/portfolio_ops\npython3 portfolio.py generate   # or: python3 portfolio.py update\n```\n\nTerminal 2 (frontend):\n```bash\ncd /home/jake/Desktop/portfolio_ops/mi_portfolio\nnpm run dev\n# Open http://localhost:3000\n```\n\nAs the scanner updates `../portfolio_cli/portfolio-data`, the frontend reads the latest JSON/assets on refresh.\n\n### Key files\n\n- `app/page.jsx` – Renders `OfficialProjects` (if any) and the full grid using `getProjects()`\n- `app/projects/[slug]/page.jsx` – Detail page (awaits dynamic params per Next.js 15)\n- `app/portfolio-data/projects.json/route.js` – Serves scanner JSON in dev (from `../portfolio_cli/portfolio-data/projects.json`)\n- `app/portfolio-data/assets/[...path]/route.js` – Serves scanner assets in dev (from `../portfolio_cli/portfolio-data/assets/*`)\n - `app/official-projects/route.js` – GET/POST curated selections saved to `../portfolio_cli/portfolio-data/official-projects.json`\n - `app/curate/page.jsx` – UI to choose which projects are “official”\n- `components/ProjectCard.jsx`, `components/ProjectGrid.jsx` – UI components\n- `lib/projects.jsx` – Data loader with FS-first, route fallback\n- `lib/official.js` – Helpers to read curated slugs and official projects\n- `lib/markdown.tsx` – Markdown renderer (GFM + Prism highlighting)\n- `next.config.mjs` – `images.unoptimized = true` to keep static-friendly\n\n### Data expectations\n\n- `projects.json` can be either:\n  - A root-level array: `[ { id, name, slug, metadata, readme, assets, git, ... } ]`\n  - Or an object: `{ meta, projects: [ ... ] }`\n- Assets referenced in JSON must exist under `../portfolio_cli/portfolio-data/assets/`.\n\n### Production notes\n\n- If deploying statically, copy `portfolio-data/` into `public/portfolio-data/` at build time, or keep the route-based approach and mount the data directory alongside the server.\n- Optionally set `NEXT_PUBLIC_SITE_URL` if the app needs an absolute base URL when fetching its own routes.\n\n### Troubleshooting\n\n- Dynamic params warning: ensure `const { slug } = (await params) || {};` in `app/projects/[slug]/page.jsx`.\n- Empty list: verify `../portfolio-data/projects.json` exists and open `/portfolio-data/projects.json` in browser.\n- Broken images: open `/portfolio-data/assets/...` directly; ensure paths in JSON match files on disk.\n\n### More docs\n\nSee `tech.md` in this folder for detailed architecture and maintenance guidance.\n",
+          "preview": "This Next.js app renders projects discovered by the Python scanner in `../portfolio_cli`. It reads `projects.json` and assets produced by the scanner and provides:",
+          "headings": [
+            "mi_portfolio (Next.js) – Frontend for Portfolio-OPs",
+            "How it integrates with Portfolio-OPs",
+            "Development",
+            "Open http://localhost:3000",
+            "Key files",
+            "Data expectations",
+            "Production notes",
+            "Troubleshooting",
+            "More docs"
+          ],
+          "has_demo": false,
+          "demo_url": null,
+          "word_count": 454
+        },
+        "assets": {
+          "screenshots": [],
+          "logo": null,
+          "thumbnail": null
+        },
+        "git": {
+          "is_repo": false,
+          "remote_url": null,
+          "last_commit": null,
+          "first_commit": null,
+          "total_commits": 0,
+          "branch": null,
+          "is_archived": false
+        },
+        "stats": {
+          "lines_of_code": 23704,
+          "file_count": 190,
+          "has_tests": false,
+          "test_coverage": null,
+          "has_ci": false,
+          "has_docs": false,
+          "documentation_completeness": 50
+        },
+        "display": {
+          "featured": false,
+          "priority": 0,
+          "category": "Web Development",
+          "status": "Unknown",
+          "visibility": "public",
+          "custom_description": null
+        },
+        "timestamps": {
+          "created": "2025-10-01T12:49:31.267225",
+          "modified": "2025-10-01T12:49:31.267225",
+          "last_scanned": "2025-10-02T13:32:40.848121"
         }
       }
     },
     "/home/jake/Desktop/SlipKitchen (copy)": {
       "last_modified": "2025-07-24T17:20:38.448888",
-      "last_scanned": "2025-09-30T15:46:05.565225",
+      "last_scanned": "2025-10-02T13:32:41.145868",
       "project_data": {
         "id": "365888361754",
         "name": "Slipkitchen Ke",
@@ -3255,98 +3482,13 @@
         "timestamps": {
           "created": "2025-07-24T17:13:04+03:00",
           "modified": "2025-07-24T17:20:38.448888",
-          "last_scanned": "2025-09-30T15:46:05.565225"
-        }
-      }
-    },
-    "/home/jake/Desktop/portfolio_ops": {
-      "last_modified": "2025-09-30T15:41:18.591839",
-      "last_scanned": "2025-09-30T15:46:05.569386",
-      "project_data": {
-        "id": "a7b1d240a9d4",
-        "name": "Portfolio Ops",
-        "path": "/home/jake/Desktop/portfolio_ops",
-        "slug": "portfolioops",
-        "metadata": {
-          "language": "Python",
-          "framework": "Python",
-          "type": "CLI Tool",
-          "tags": [
-            "python"
-          ]
-        },
-        "readme": {
-          "exists": true,
-          "path": "README.md",
-          "content": "# Portfolio-OPs Technical Documentation\n\n**Version:** 1.0.0  \n**Last Updated:** September 30, 2025\n\n---\n\n## Table of Contents\n1. [Overview](#overview)\n2. [Architecture](#architecture)\n3. [CLI Commands](#cli-commands)\n4. [Python Scanner](#python-scanner)\n5. [Data Schema](#data-schema)\n6. [Next.js Portfolio](#nextjs-portfolio)\n7. [Workflows](#workflows)\n8. [Installation](#installation)\n\n---\n\n## Overview\n\n**Portfolio-OPs** is a command-line tool that automates portfolio creation and maintenance by:\n- Scanning your Desktop for code projects\n- Extracting metadata, READMEs, and assets\n- Generating structured JSON data\n- Powering a Next.js portfolio website\n\n### Design Philosophy\n- **Zero Configuration:** Works out of the box\n- **Smart Detection:** Automatically identifies project types\n- **Markdown-First:** READMEs become your project descriptions\n- **Git-Aware:** Tracks project activity and status\n- **Incremental Updates:** Only processes changed projects\n\n---\n\n## Architecture\n\n```\n┌─────────────────────────────────────────────────────────────┐\n│                        Desktop                               │\n│  ~/Desktop/                                                  │\n│    ├── project-react/                                       │\n│    ├── python-api/                                          │\n│    └── flutter-app/                                         │\n└─────────────────────────────────────────────────────────────┘\n                              │\n                              ▼\n┌─────────────────────────────────────────────────────────────┐\n│                   portfolio.py (Scanner)                     │\n│  • Detects projects                                          │\n│  • Extracts metadata                                         │\n│  • Reads READMEs                                            │\n│  • Finds assets                                              │\n│  • Collects git info                                         │\n└─────────────────────────────────────────────────────────────┘\n                              │\n                              ▼\n┌─────────────────────────────────────────────────────────────┐\n│              portfolio-data/ (Data Layer)                    │\n│  ├── projects.json          (Main data file)                │\n│  ├── cache.json             (Scan cache)                    │\n│  └── assets/                (Copied screenshots)            │\n│      ├── project-1/                                          │\n│      └── project-2/                                          │\n└─────────────────────────────────────────────────────────────┘\n                              │\n                              ▼\n┌─────────────────────────────────────────────────────────────┐\n│              Next.js Portfolio (Frontend)                    │\n│  • Reads projects.json                                       │\n│  • Renders markdown READMEs                                  │\n│  • Displays project cards                                    │\n│  • Provides search/filter                                    │\n└─────────────────────────────────────────────────────────────┘\n```\n\n---\n\n## CLI Commands\n\n### Basic Usage\n\n```bash\n# Navigate to your Desktop\ncd ~/Desktop\n\n# First time setup\npython3 portfolio.py init\n\n# Scan all projects (full scan)\npython3 portfolio.py generate\n\n# Update only changed projects (fast)\npython3 portfolio.py update\n\n# List all detected projects\npython3 portfolio.py list\n\n# Show specific project details\npython3 portfolio.py show project-name\n\n# Rebuild portfolio frontend\npython3 portfolio.py build\n\n# Clean cache and start fresh\npython3 portfolio.py clean\n```\n\n### Advanced Commands\n\n```bash\n# Scan specific directory\npython3 portfolio.py generate --path ~/Projects\n\n# Export to custom location\npython3 portfolio.py generate --output ./my-portfolio-data\n\n# Exclude certain directories\npython3 portfolio.py generate --ignore node_modules,venv,build\n\n# Set scan depth\npython3 portfolio.py generate --depth 3\n\n# Generate with verbose output\npython3 portfolio.py generate --verbose\n\n# Preview without saving\npython3 portfolio.py generate --dry-run\n\n# Mark project as featured\npython3 portfolio.py feature project-name\n\n# Set project category\npython3 portfolio.py categorize project-name \"Web Development\"\n\n# Archive old project\npython3 portfolio.py archive project-name\n```\n\n---\n\n## Python Scanner\n\n### Project Structure\n\n```\n~/Desktop/\n├── portfolio.py                 # Main CLI script\n├── portfolio_ops/               # Package directory\n│   ├── __init__.py\n│   ├── scanner.py              # Core scanning logic\n│   ├── detectors.py            # Language/framework detectors\n│   ├── readme_parser.py        # README extraction\n│   ├── asset_finder.py         # Screenshot/asset detection\n│   ├── git_analyzer.py         # Git metadata extraction\n│   ├── data_manager.py         # JSON export/import\n│   └── config.py               # Configuration\n├── data/              # Generated data\n│   ├── projects.json\n│   ├── cache.json\n│   └── assets/\n└── requirements.txt\n```\n\n### Core Modules\n\n#### 1. **scanner.py** - Main Scanner\n```python\nclass PortfolioScanner:\n    def scan(self, root_path: str) -> List[Project]:\n        \"\"\"\n        Scans directory tree for projects\n        Returns list of detected projects\n        \"\"\"\n    \n    def detect_project(self, dir_path: str) -> Optional[Project]:\n        \"\"\"\n        Determines if directory is a project\n        Extracts all metadata\n        \"\"\"\n```\n\n#### 2. **detectors.py** - Language/Framework Detection\n```python\ndef detect_javascript(dir_path: str) -> Optional[ProjectInfo]:\n    \"\"\"Checks package.json, detects React/Vue/Node\"\"\"\n\ndef detect_python(dir_path: str) -> Optional[ProjectInfo]:\n    \"\"\"Checks requirements.txt, detects Flask/Django\"\"\"\n\ndef detect_flutter(dir_path: str) -> Optional[ProjectInfo]:\n    \"\"\"Checks pubspec.yaml\"\"\"\n```\n\n#### 3. **readme_parser.py** - README Extraction\n```python\nclass ReadmeParser:\n    def parse(self, readme_path: str) -> ReadmeData:\n        \"\"\"\n        Extracts:\n        - Full markdown content\n        - First paragraph (preview)\n        - Headings structure\n        - Demo links\n        - Badges\n        \"\"\"\n```\n\n#### 4. **asset_finder.py** - Asset Detection\n```python\nclass AssetFinder:\n    def find_screenshots(self, dir_path: str) -> List[str]:\n        \"\"\"Looks in docs/, screenshots/, assets/ folders\"\"\"\n    \n    def find_logo(self, dir_path: str) -> Optional[str]:\n        \"\"\"Finds logo.png, icon.svg, etc.\"\"\"\n```\n\n#### 5. **git_analyzer.py** - Git Metadata\n```python\nclass GitAnalyzer:\n    def get_remote_url(self, dir_path: str) -> Optional[str]:\n        \"\"\"Extracts GitHub/GitLab URL\"\"\"\n    \n    def get_last_commit(self, dir_path: str) -> datetime:\n        \"\"\"Gets last commit timestamp\"\"\"\n    \n    def get_commit_count(self, dir_path: str) -> int:\n        \"\"\"Counts total commits\"\"\"\n```\n\n#### 6. **data_manager.py** - Data Export\n```python\nclass DataManager:\n    def export_json(self, projects: List[Project], output_path: str):\n        \"\"\"Exports to projects.json\"\"\"\n    \n    def load_cache(self) -> Dict:\n        \"\"\"Loads previous scan for comparison\"\"\"\n    \n    def save_cache(self, projects: List[Project]):\n        \"\"\"Saves current scan state\"\"\"\n```\n\n---\n\n## Data Schema\n\n### projects.json Structure\n\n```json\n{\n  \"meta\": {\n    \"generated_at\": \"2025-09-30T10:30:00Z\",\n    \"scan_type\": \"full\",\n    \"total_projects\": 12,\n    \"scanner_version\": \"1.0.0\"\n  },\n  \"projects\": [\n    {\n      \"id\": \"ecommerce-react-2024\",\n      \"name\": \"E-Commerce Platform\",\n      \"path\": \"/Users/you/Desktop/ecommerce-react\",\n      \"slug\": \"ecommerce-react-2024\",\n      \n      \"metadata\": {\n        \"language\": \"JavaScript\",\n        \"framework\": \"React\",\n        \"type\": \"Web App\",\n        \"tags\": [\"react\", \"typescript\", \"ecommerce\", \"web\"]\n      },\n      \n      \"readme\": {\n        \"exists\": true,\n        \"path\": \"README.md\",\n        \"content\": \"# E-Commerce Platform\\n\\nFull markdown content...\",\n        \"preview\": \"A modern e-commerce platform built with React and TypeScript...\",\n        \"headings\": [\n          \"Features\",\n          \"Tech Stack\",\n          \"Installation\",\n          \"Screenshots\"\n        ],\n        \"has_demo\": true,\n        \"demo_url\": \"https://demo.example.com\",\n        \"word_count\": 450\n      },\n      \n      \"assets\": {\n        \"screenshots\": [\n          \"portfolio-data/assets/ecommerce-react-2024/screenshot-1.png\",\n          \"portfolio-data/assets/ecommerce-react-2024/screenshot-2.png\"\n        ],\n        \"logo\": \"portfolio-data/assets/ecommerce-react-2024/logo.svg\",\n        \"thumbnail\": \"portfolio-data/assets/ecommerce-react-2024/thumbnail.jpg\"\n      },\n      \n      \"git\": {\n        \"is_repo\": true,\n        \"remote_url\": \"https://github.com/username/ecommerce-react\",\n        \"last_commit\": \"2025-09-28T14:22:00Z\",\n        \"total_commits\": 234,\n        \"branch\": \"main\",\n        \"is_archived\": false\n      },\n      \n      \"stats\": {\n        \"lines_of_code\": 8543,\n        \"file_count\": 127,\n        \"has_tests\": true,\n        \"test_coverage\": 78.5,\n        \"has_ci\": true,\n        \"has_docs\": true,\n        \"documentation_completeness\": 85\n      },\n      \n      \"display\": {\n        \"featured\": true,\n        \"priority\": 1,\n        \"category\": \"Web Development\",\n        \"status\": \"Active\",\n        \"visibility\": \"public\",\n        \"custom_description\": null\n      },\n      \n      \"timestamps\": {\n        \"created\": \"2024-01-15T09:00:00Z\",\n        \"modified\": \"2025-09-28T14:22:00Z\",\n        \"last_scanned\": \"2025-09-30T10:30:00Z\"\n      }\n    }\n  ]\n}\n```\n\n### cache.json Structure\n\n```json\n{\n  \"last_scan\": \"2025-09-30T10:30:00Z\",\n  \"projects\": {\n    \"/Users/you/Desktop/project-1\": {\n      \"last_modified\": \"2025-09-28T14:22:00Z\",\n      \"checksum\": \"a1b2c3d4e5f6\",\n      \"last_scanned\": \"2025-09-30T10:30:00Z\"\n    }\n  }\n}\n```\n\n---\n\n## Next.js Portfolio\n\n### Project Structure\n\n```\nportfolio-website/\n├── public/\n│   └── portfolio-data/          # Copied from scanner output\n│       ├── projects.json\n│       └── assets/\n├── src/\n│   ├── app/\n│   │   ├── page.tsx            # Homepage with project grid\n│   │   ├── projects/\n│   │   │   └── [slug]/\n│   │   │       └── page.tsx    # Individual project page\n│   │   └── layout.tsx\n│   ├── components/\n│   │   ├── ProjectCard.tsx     # Project preview card\n│   │   ├── ProjectGrid.tsx     # Grid layout\n│   │   ├── MarkdownRenderer.tsx # README renderer\n│   │   ├── ImageGallery.tsx    # Screenshot gallery\n│   │   └── FilterBar.tsx       # Search/filter UI\n│   ├── lib/\n│   │   ├── projects.ts         # Load/parse projects.json\n│   │   └── markdown.ts         # Markdown utilities\n│   └── types/\n│       └── project.ts          # TypeScript types\n├── next.config.js\n├── package.json\n└── tailwind.config.js\n```\n\n### Key Features\n\n#### 1. **Static Generation**\n```typescript\n// app/projects/[slug]/page.tsx\nexport async function generateStaticParams() {\n  const projects = await getProjects();\n  return projects.map(p => ({ slug: p.slug }));\n}\n```\n\n#### 2. **README Rendering**\n```typescript\n// components/MarkdownRenderer.tsx\nimport ReactMarkdown from 'react-markdown';\nimport remarkGfm from 'remark-gfm';\nimport { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';\n\nexport function MarkdownRenderer({ content }: { content: string }) {\n  return (\n    <ReactMarkdown\n      remarkPlugins={[remarkGfm]}\n      components={{\n        code({ node, inline, className, children, ...props }) {\n          // Syntax highlighting for code blocks\n        }\n      }}\n    >\n      {content}\n    </ReactMarkdown>\n  );\n}\n```\n\n#### 3. **Search & Filter**\n```typescript\n// components/FilterBar.tsx\n- Filter by language (JavaScript, Python, Dart)\n- Filter by type (Web App, Mobile App, CLI Tool)\n- Filter by tags\n- Sort by date, name, priority\n- Text search in names and descriptions\n```\n\n---\n\n## Workflows\n\n### First-Time Setup\n\n```bash\n# 1. Clone or create portfolio-ops\ncd ~/Desktop\ngit clone https://github.com/yourusername/portfolio-ops.git\ncd portfolio-ops\n\n# 2. Install Python dependencies\npip3 install -r requirements.txt\n\n# 3. Initialize\npython3 portfolio.py init\n\n# Output:\n# ✓ Created portfolio-data directory\n# ✓ Created config file\n# ✓ Ready to scan!\n```\n\n### Daily Workflow\n\n```bash\n# Morning: Work on projects\ncd ~/Desktop/my-new-project\n# ... code, commit, push ...\n\n# Afternoon: Update portfolio\ncd ~/Desktop\npython3 portfolio.py update\n\n# Output:\n# Scanning ~/Desktop...\n# ✓ Found 3 new projects\n# ✓ Updated 2 existing projects\n# ✓ Exported to portfolio-data/projects.json\n# ✓ Copied 5 screenshots\n# \n# Summary:\n#   Total Projects: 15\n#   Featured: 5\n#   Categories: Web (8), Mobile (3), CLI (4)\n\n# If you have the Next.js dev server running, it auto-reloads!\n```\n\n### Publishing Workflow\n\n```bash\n# 1. Scan projects\npython3 portfolio.py generate\n\n# 2. Navigate to portfolio website\ncd ~/Desktop/portfolio-website\n\n# 3. Copy data (or use symlink)\ncp -r ../portfolio-data ./public/\n\n# 4. Build and deploy\nnpm run build\nvercel deploy --prod\n\n# Done! Portfolio live at: https://yourname.vercel.app\n```\n\n### Incremental Update Logic\n\n```python\n# portfolio.py update command does:\n\n1. Load cache.json\n2. For each project directory:\n   - Check if it exists in cache\n   - Compare last modified timestamp\n   - If unchanged → Skip (fast!)\n   - If changed → Re-scan metadata\n   - If new → Full scan\n3. Only process changed projects\n4. Update cache.json\n5. Export new projects.json\n\n# Result: Update takes 2-5 seconds instead of 30+ seconds\n```\n\n---\n\n## Installation\n\n### Prerequisites\n\n```bash\n- Python 3.8+\n- Node.js 18+\n- Git (for git metadata extraction)\n```\n\n### Python Setup\n\n```bash\n# Install dependencies\npip3 install -r requirements.txt\n\n# requirements.txt:\n# GitPython==3.1.40\n# PyYAML==6.0.1\n# markdown==3.5.1\n# python-frontmatter==1.0.0\n# Pillow==10.1.0  # For image processing\n```\n\n### Next.js Setup\n\n```bash\n# Create Next.js app\nnpx create-next-app@latest portfolio-website --typescript --tailwind --app\n\n# Install dependencies\ncd portfolio-website\nnpm install react-markdown remark-gfm rehype-highlight\nnpm install react-syntax-highlighter\nnpm install @types/react-syntax-highlighter --save-dev\n```\n\n### Development Environment\n\n```bash\n# Terminal 1: Watch for project changes\ncd ~/Desktop\npython3 portfolio.py watch  # Auto-runs update on file changes\n\n# Terminal 2: Next.js dev server\ncd ~/Desktop/portfolio-website\nnpm run dev\n\n# Open: http://localhost:3000\n# Changes to projects instantly reflect!\n```\n\n---\n\n## Configuration\n\n### portfolio-config.yaml\n\n```yaml\nscanner:\n  root_path: \"~/Desktop\"\n  max_depth: 3\n  ignore_dirs:\n    - node_modules\n    - venv\n    - .git\n    - build\n    - dist\n    - __pycache__\n  \n  file_patterns:\n    javascript: [\"package.json\"]\n    python: [\"requirements.txt\", \"setup.py\", \"pyproject.toml\"]\n    flutter: [\"pubspec.yaml\"]\n    rust: [\"Cargo.toml\"]\n    go: [\"go.mod\"]\n\noutput:\n  data_dir: \"./portfolio-data\"\n  copy_assets: true\n  max_asset_size_mb: 5\n  \n  screenshot_dirs:\n    - screenshots\n    - docs/images\n    - assets\n    - .github/images\n\ndisplay:\n  auto_feature_threshold: 100  # Projects with 100+ commits auto-featured\n  default_category: \"Uncategorized\"\n  \n  visibility_rules:\n    - pattern: \"test-*\"\n      visibility: hidden\n    - pattern: \"draft-*\"\n      visibility: draft\n```\n\n---\n\n## Best Practices\n\n### Project Organization\n\n1. **README Guidelines**: Every project should have a README.md with:\n   - Project description\n   - Screenshots section\n   - Tech stack\n   - Features list\n\n2. **Screenshots**: Place in `screenshots/` or `docs/images/`\n\n3. **Git Commits**: Regular commits improve \"last updated\" display\n\n### Portfolio Curation\n\n```bash\n# Mark best projects as featured\npython3 portfolio.py feature awesome-project\n\n# Set categories for organization\npython3 portfolio.py categorize web-app \"Web Development\"\n\n# Hide incomplete projects\npython3 portfolio.py hide draft-project\n```\n\n### Performance Tips\n\n1. Use `update` instead of `generate` for daily scans\n2. Keep screenshot sizes under 2MB\n3. Use `.portfolioignore` file to skip certain directories\n4. Run `clean` monthly to remove stale cache\n\n---\n\n## Future Enhancements\n\n- **Watch Mode**: Auto-update on file changes\n- **GitHub Integration**: Pull stars, forks, issues count\n- **AI Descriptions**: Generate descriptions if README missing\n- **Screenshot Capture**: Auto-screenshot web apps\n- **Analytics**: Track which projects get most views\n- **Blog Integration**: Pull dev.to or Medium articles\n\n---\n\n## Troubleshooting\n\n### Scanner Issues\n\n**Problem**: Projects not detected\n```bash\n# Check if directory has project markers\npython3 portfolio.py validate ~/Desktop/project-name\n\n# Increase scan depth\npython3 portfolio.py generate --depth 5\n```\n\n**Problem**: Slow scans\n```bash\n# Use update instead\npython3 portfolio.py update\n\n# Or ignore large directories\npython3 portfolio.py generate --ignore node_modules,venv\n```\n\n### Next.js Issues\n\n**Problem**: Images not loading\n- Ensure assets copied to `public/portfolio-data/assets/`\n- Check Next.js `next.config.js` allows external images\n\n**Problem**: Markdown not rendering\n- Verify `projects.json` has full markdown content\n- Check ReactMarkdown configuration\n\n---\n\n## Support\n\nFor issues, suggestions, or contributions:\n- GitHub: https://github.com/yourusername/portfolio-ops\n- Email: your@email.com\n\n---\n\n**Happy Portfolio Building! 🚀**",
-          "preview": "**Version:** 1.0.0 **Last Updated:** September 30, 2025",
-          "headings": [
-            "Portfolio-OPs Technical Documentation",
-            "Table of Contents",
-            "Overview",
-            "Design Philosophy",
-            "Architecture",
-            "CLI Commands",
-            "Basic Usage",
-            "Navigate to your Desktop",
-            "First time setup",
-            "Scan all projects (full scan)",
-            "Update only changed projects (fast)",
-            "List all detected projects",
-            "Show specific project details",
-            "Rebuild portfolio frontend",
-            "Clean cache and start fresh",
-            "Advanced Commands",
-            "Scan specific directory",
-            "Export to custom location",
-            "Exclude certain directories",
-            "Set scan depth"
-          ],
-          "has_demo": true,
-          "demo_url": "https://demo.example.com\",",
-          "word_count": 1747
-        },
-        "assets": {
-          "screenshots": [],
-          "logo": null,
-          "thumbnail": null
-        },
-        "git": {
-          "is_repo": false,
-          "remote_url": null,
-          "last_commit": null,
-          "first_commit": null,
-          "total_commits": 0,
-          "branch": null,
-          "is_archived": false
-        },
-        "stats": {
-          "lines_of_code": 1313,
-          "file_count": 12,
-          "has_tests": false,
-          "test_coverage": null,
-          "has_ci": false,
-          "has_docs": false,
-          "documentation_completeness": 50
-        },
-        "display": {
-          "featured": false,
-          "priority": 0,
-          "category": "CLI Tools",
-          "status": "Unknown",
-          "visibility": "public",
-          "custom_description": null
-        },
-        "timestamps": {
-          "created": "2025-09-30T15:41:18.591839",
-          "modified": "2025-09-30T15:41:18.591839",
-          "last_scanned": "2025-09-30T15:46:05.569386"
+          "last_scanned": "2025-10-02T13:32:41.145868"
         }
       }
     },
     "/home/jake/Desktop/betting-planner": {
       "last_modified": "2025-07-10T17:44:53.576611",
-      "last_scanned": "2025-09-30T15:46:10.313120",
+      "last_scanned": "2025-10-02T13:32:41.857237",
       "project_data": {
         "id": "096fbf8404c8",
         "name": "Betting Planner",
@@ -3431,13 +3573,13 @@
         "timestamps": {
           "created": "2025-07-08T13:57:20+03:00",
           "modified": "2025-07-10T17:44:53.576611",
-          "last_scanned": "2025-09-30T15:46:10.313120"
+          "last_scanned": "2025-10-02T13:32:41.857237"
         }
       }
     },
     "/home/jake/Desktop/port_curator": {
       "last_modified": "2025-07-28T08:42:57.965537",
-      "last_scanned": "2025-09-30T15:46:10.555527",
+      "last_scanned": "2025-10-02T13:32:41.879913",
       "project_data": {
         "id": "5fbcb25d8c19",
         "name": "Port Curator",
@@ -3510,13 +3652,13 @@
         "timestamps": {
           "created": "2025-07-28T08:42:57.965537",
           "modified": "2025-07-28T08:42:57.965537",
-          "last_scanned": "2025-09-30T15:46:10.555527"
+          "last_scanned": "2025-10-02T13:32:41.879913"
         }
       }
     },
     "/home/jake/Desktop/dev_brief": {
       "last_modified": "2025-09-21T09:41:44.086777",
-      "last_scanned": "2025-09-30T15:46:10.715643",
+      "last_scanned": "2025-10-02T13:32:41.913333",
       "project_data": {
         "id": "d7383628947d",
         "name": "Dev Brief",
@@ -3588,13 +3730,13 @@
         "timestamps": {
           "created": "2025-07-12T20:06:15+03:00",
           "modified": "2025-09-21T09:41:44.086777",
-          "last_scanned": "2025-09-30T15:46:10.715643"
+          "last_scanned": "2025-10-02T13:32:41.913333"
         }
       }
     },
     "/home/jake/Desktop/product-evo/quickbuy": {
       "last_modified": "2025-05-27T12:23:43.738739",
-      "last_scanned": "2025-09-30T15:46:12.077511",
+      "last_scanned": "2025-10-02T13:32:42.144840",
       "project_data": {
         "id": "cc092e328aac",
         "name": "Quickbuy",
@@ -3661,13 +3803,13 @@
         "timestamps": {
           "created": "2025-05-27T11:56:01+03:00",
           "modified": "2025-05-27T12:23:43.738739",
-          "last_scanned": "2025-09-30T15:46:12.077511"
+          "last_scanned": "2025-10-02T13:32:42.144840"
         }
       }
     },
     "/home/jake/Desktop/product-evo/quickcartv3": {
       "last_modified": "2025-06-17T09:37:28.015583",
-      "last_scanned": "2025-09-30T15:46:13.907040",
+      "last_scanned": "2025-10-02T13:32:42.522016",
       "project_data": {
         "id": "0de5a13c20fb",
         "name": "Quickcartv3",
@@ -3738,13 +3880,13 @@
         "timestamps": {
           "created": "2025-05-31T11:42:10+03:00",
           "modified": "2025-06-17T09:37:28.015583",
-          "last_scanned": "2025-09-30T15:46:13.907040"
+          "last_scanned": "2025-10-02T13:32:42.522016"
         }
       }
     },
     "/home/jake/Desktop/product-evo/quickcartv2": {
       "last_modified": "2025-06-17T09:23:27.616845",
-      "last_scanned": "2025-09-30T15:46:15.145332",
+      "last_scanned": "2025-10-02T13:32:42.771937",
       "project_data": {
         "id": "05065570ca63",
         "name": "Quickcartv2",
@@ -3815,13 +3957,13 @@
         "timestamps": {
           "created": "2025-05-28T21:08:07+03:00",
           "modified": "2025-06-17T09:23:27.616845",
-          "last_scanned": "2025-09-30T15:46:15.145332"
+          "last_scanned": "2025-10-02T13:32:42.771937"
         }
       }
     },
     "/home/jake/Desktop/product-evo/rapidov0.0": {
       "last_modified": "2025-06-22T13:33:50.038897",
-      "last_scanned": "2025-09-30T15:46:15.154440",
+      "last_scanned": "2025-10-02T13:32:42.773785",
       "project_data": {
         "id": "f16410962a2c",
         "name": "Rapido Cart",
@@ -3887,13 +4029,13 @@
         "timestamps": {
           "created": "2025-06-28T11:50:17.097034",
           "modified": "2025-06-22T13:33:50.038897",
-          "last_scanned": "2025-09-30T15:46:15.154440"
+          "last_scanned": "2025-10-02T13:32:42.773785"
         }
       }
     },
     "/home/jake/Desktop/product-evo/zoomcart": {
       "last_modified": "2025-06-17T13:06:28.274196",
-      "last_scanned": "2025-09-30T15:46:19.617249",
+      "last_scanned": "2025-10-02T13:32:43.566421",
       "project_data": {
         "id": "5844e61ef7a6",
         "name": "Zoomcart",
@@ -3974,13 +4116,13 @@
         "timestamps": {
           "created": "2025-06-28T11:49:58.681136",
           "modified": "2025-06-17T13:06:28.274196",
-          "last_scanned": "2025-09-30T15:46:19.617249"
+          "last_scanned": "2025-10-02T13:32:43.566421"
         }
       }
     },
     "/home/jake/Desktop/product-evo/quickcartv.0.0": {
       "last_modified": "2025-05-26T14:10:51.073974",
-      "last_scanned": "2025-09-30T15:46:20.978017",
+      "last_scanned": "2025-10-02T13:32:43.811532",
       "project_data": {
         "id": "a4b547040502",
         "name": "Quickcart",
@@ -4040,13 +4182,13 @@
         "timestamps": {
           "created": "2024-11-18T16:43:53+03:00",
           "modified": "2025-05-26T14:10:51.073974",
-          "last_scanned": "2025-09-30T15:46:20.978017"
+          "last_scanned": "2025-10-02T13:32:43.811532"
         }
       }
     },
     "/home/jake/Desktop/product-evo/quickcart-backend": {
       "last_modified": "2025-06-11T11:33:50.024469",
-      "last_scanned": "2025-09-30T15:46:21.169600",
+      "last_scanned": "2025-10-02T13:32:43.841132",
       "project_data": {
         "id": "7e6ac7049873",
         "name": "Quickcart Backend",
@@ -4123,13 +4265,13 @@
         "timestamps": {
           "created": "2025-06-09T18:11:37+03:00",
           "modified": "2025-06-11T11:33:50.024469",
-          "last_scanned": "2025-09-30T15:46:21.169600"
+          "last_scanned": "2025-10-02T13:32:43.841132"
         }
       }
     },
     "/home/jake/Desktop/plann": {
       "last_modified": "2025-07-07T16:28:00.961920",
-      "last_scanned": "2025-09-30T15:46:21.174185",
+      "last_scanned": "2025-10-02T13:32:43.843381",
       "project_data": {
         "id": "a6f0c656cfc0",
         "name": "Bet_Planner",
@@ -4196,13 +4338,13 @@
         "timestamps": {
           "created": "2025-07-07T16:28:00.961920",
           "modified": "2025-07-07T16:28:00.961920",
-          "last_scanned": "2025-09-30T15:46:21.174185"
+          "last_scanned": "2025-10-02T13:32:43.843381"
         }
       }
     },
     "/home/jake/Desktop/ganjiboard-web": {
       "last_modified": "2025-09-24T05:28:53.400671",
-      "last_scanned": "2025-09-30T15:46:21.800596",
+      "last_scanned": "2025-10-02T13:32:43.947025",
       "project_data": {
         "id": "8cfc887e0887",
         "name": "Ganjiboard Web",
@@ -4283,13 +4425,13 @@
         "timestamps": {
           "created": "2025-08-21T23:17:14+03:00",
           "modified": "2025-09-24T05:28:53.400671",
-          "last_scanned": "2025-09-30T15:46:21.800596"
+          "last_scanned": "2025-10-02T13:32:43.947025"
         }
       }
     },
     "/home/jake/Desktop/sdm": {
       "last_modified": "2025-06-28T15:48:52.185364",
-      "last_scanned": "2025-09-30T15:46:22.001275",
+      "last_scanned": "2025-10-02T13:32:43.977781",
       "project_data": {
         "id": "10e13991e57a",
         "name": "Sdm",
@@ -4361,13 +4503,13 @@
         "timestamps": {
           "created": "2025-06-28T15:52:30+03:00",
           "modified": "2025-06-28T15:48:52.185364",
-          "last_scanned": "2025-09-30T15:46:22.001275"
+          "last_scanned": "2025-10-02T13:32:43.977781"
         }
       }
     },
     "/home/jake/Desktop/mapper-master": {
       "last_modified": "2025-01-18T10:05:30.834730",
-      "last_scanned": "2025-09-30T15:46:27.383480",
+      "last_scanned": "2025-10-02T13:32:44.712198",
       "project_data": {
         "id": "ce4fe09e60a4",
         "name": "Mapper",
@@ -4444,13 +4586,13 @@
         "timestamps": {
           "created": "2025-01-18T10:05:30.834730",
           "modified": "2025-01-18T10:05:30.834730",
-          "last_scanned": "2025-09-30T15:46:27.383480"
+          "last_scanned": "2025-10-02T13:32:44.712198"
         }
       }
     },
     "/home/jake/Desktop/ganjiboardnotes/ganjiboard_v.0.0.1": {
       "last_modified": "2025-09-24T04:55:06.766002",
-      "last_scanned": "2025-09-30T15:46:27.501042",
+      "last_scanned": "2025-10-02T13:32:44.715099",
       "project_data": {
         "id": "5955ccc209f7",
         "name": "Ganjiboard Web",
@@ -4531,13 +4673,13 @@
         "timestamps": {
           "created": "2025-09-24T04:55:06.766002",
           "modified": "2025-09-24T04:55:06.766002",
-          "last_scanned": "2025-09-30T15:46:27.501042"
+          "last_scanned": "2025-10-02T13:32:44.715099"
         }
       }
     },
     "/home/jake/Desktop/filmlist": {
       "last_modified": "2025-09-22T11:54:54.076455",
-      "last_scanned": "2025-09-30T15:46:27.520684",
+      "last_scanned": "2025-10-02T13:32:44.718217",
       "project_data": {
         "id": "aa5fa48dcebf",
         "name": "Mi Lista",
@@ -4609,13 +4751,13 @@
         "timestamps": {
           "created": "2025-09-22T11:54:54.076455",
           "modified": "2025-09-22T11:54:54.076455",
-          "last_scanned": "2025-09-30T15:46:27.520684"
+          "last_scanned": "2025-10-02T13:32:44.718217"
         }
       }
     },
     "/home/jake/Desktop/brief_bird": {
-      "last_modified": "2025-09-27T13:15:00.703509",
-      "last_scanned": "2025-09-30T15:46:28.252626",
+      "last_modified": "2025-10-02T13:13:52.985545",
+      "last_scanned": "2025-10-02T13:32:44.751521",
       "project_data": {
         "id": "33f82976dcf0",
         "name": "Brief Bird",
@@ -4634,29 +4776,33 @@
         "readme": {
           "exists": true,
           "path": "README.md",
-          "content": "# brief_bird\nGPT NESHONYANGO ACCOUNT\nTo create a simple and valuable Flutter app with SQLite for developers to manage their local projects, you need to focus on delivering the most essential information and designing an intuitive first screen. Since the app launches automatically when the laptop or desktop starts and operates locally, it should provide a quick, actionable overview of all local projects and their statuses. Below, I’ll outline the key information to prioritize and how to structure the UI for the first screen to maximize its usefulness.\n\n### Information to Prioritize\nFor the app to be valuable, it should focus on the following pieces of information, which are critical for developers to manage their projects effectively:\n\n- **Project Name**: This is the primary identifier for each project, making it easy for the developer to recognize their work at a glance.\n- **Status**: Clearly indicate whether a project is **unfinished**, **dead**, or **finished**. This helps the developer quickly assess which projects require attention or can be ignored.\n- **Last Launched Date**: Show the date when the project was last opened through the app. This provides insight into recent activity and helps prioritize tasks, reflecting the developer’s interaction with the project via this tool.\n- **Project Path**: Store the file system path to the project directory. This is essential for enabling the \"Launch in VS Code\" feature, allowing seamless access to the project.\n\nThese elements ensure the app delivers concise, actionable data without overwhelming the user.\n\n### UI Structure for the First Screen\nThe first screen should be clean, intuitive, and focused on providing an immediate overview of projects, with quick access to key actions for unfinished projects. Here’s how it should be structured:\n\n#### **App Bar**\n- **Title**: Display the app name (e.g., \"Project Manager\") to provide context.\n- **Settings Icon**: Include an icon (e.g., a gear) on the right side that opens a settings page. This allows the developer to configure options like the VS Code executable path or app preferences.\n\n#### **Filter Tabs**\n- Provide a row of filter tabs below the app bar to sort projects by status:\n  - **All**: Shows every project regardless of status.\n  - **Unfinished**: Displays only unfinished projects (set as the default view).\n  - **Dead**: Shows projects marked as dead.\n  - **Finished**: Lists completed projects.\n- **Default View**: Set to \"Unfinished\" since these are the projects most likely needing attention when the developer starts their device. This focuses the app on actionable tasks right away.\n\n#### **Project Cards**\n- Use a scrollable list of cards to display projects based on the selected filter. Each card should include:\n  - **Project Name**: In bold text for emphasis and easy scanning.\n  - **Status**: Displayed with color-coding for quick recognition:\n    - Yellow for **unfinished** (indicating active work).\n    - Red for **dead** (signaling abandonment).\n    - Green for **finished** (showing completion).\n  - **Last Launched Date**: Shown as \"Last Launched: [date]\" to indicate the last time the project was opened via the app.\n  - **Actions for Unfinished Projects**:\n    - **\"Launch in VS Code\" Button**: A button that opens the project directory in VS Code using the stored project path.\n    - **Gravestone Icon**: A clickable icon (e.g., a tombstone) to mark the project as dead, updating its status in the database after a confirmation prompt.\n\n#### **Optional Enhancements**\n- **Search Bar**: Add a search field above the project list to let developers quickly find projects by name, enhancing usability for those with many projects.\n- **Project Counters**: Display a count in the app bar or near the filter tabs (e.g., \"Unfinished Projects: 5\") to give an instant sense of workload.\n\n### Why This Works\n- **Prioritized Information**: The focus on project name, status, last launched date, and path ensures the developer gets the most relevant details without clutter. The \"Last Launched\" date, updated when a project is opened via the app, keeps the info practical and tied to app usage.\n- **UI Design**: The app bar, filter tabs, and project cards create a structured, glanceable interface. Defaulting to unfinished projects aligns with the developer’s likely intent—starting work—while color-coded statuses and action buttons make it fast and easy to act on projects.\n- **Local Focus**: Since all operations are local, the SQLite database (with a simple table for id, name, status, path, and last_launched) and Flutter’s lightweight widgets ensure quick startup and responsiveness, fitting the autostart requirement.\n\nThis approach delivers a valuable tool that simplifies project management, keeps the developer focused, and integrates seamlessly into their workflow.",
-          "preview": "- **Project Name**: This is the primary identifier for each project, making it easy for the developer to recognize their work at a glance. - **Status**: Clearly indicate whether a project is **unfinished**, **dead**, or **finished**. This helps the developer quickly assess which projects require att",
+          "content": "# brief_bird\n\n## Overview\n\n**brief_bird** is a Flutter desktop app designed to help developers efficiently manage their side projects. It leverages SQLite (via Drift) for local data storage and features a Kanban-style UI to visualize project status at a glance. The app is lightweight, launches automatically on startup, and provides actionable insights into your project workflow.\n\n## Inspiration\n\nAs a developer, I often found it challenging to keep track of multiple side projects—some active, some paused, and others abandoned. Existing tools were either too complex or not tailored for local, developer-centric workflows. I built brief_bird to solve this: a simple, fast, and visually intuitive way to monitor, organize, and launch my projects directly from my desktop.\n\n## Features\n\n- **Kanban Board UI:** Projects are displayed in columns by status—Unfinished/In Progress, Complete, Paused, Dead—making it easy to see what needs attention.\n- **Project Details:** Each card shows the project name, status (color-coded), last launched date, and file path.\n- **Quick Actions:** Launch projects in VS Code with one click, mark projects as dead, and update statuses seamlessly.\n- **Filtering & Search:** Filter projects by status and search by name for fast navigation.\n- **Settings:** Configure VS Code path and app preferences.\n- **Local & Fast:** All data is stored locally using SQLite, ensuring privacy and instant access.\n\n## Technical Stack\n\n- **Flutter:** For cross-platform desktop UI.\n- **Drift (SQLite):** Local database for project management.\n- **Dart:** Application logic and state management.\n- **VS Code Integration:** Launch projects directly from the app.\n\n## Problems Solved\n\n- **Project Visibility:** No more forgotten or abandoned side projects—everything is visible and organized.\n- **Workflow Efficiency:** Launching and updating projects is fast, reducing context-switching and manual tracking.\n- **Status Tracking:** Color-coded statuses and last launched dates help prioritize work and reflect real activity.\n- **Local-first Approach:** No cloud dependencies; everything works offline and respects developer privacy.\n\n## How It Works\n\n1. On startup, brief_bird scans and displays all your tracked projects in a Kanban board.\n2. You can filter, search, and update project statuses.\n3. Launch any project in VS Code instantly.\n4. All changes are saved locally, and the UI updates in real time.\n\n## Screenshots & Demo\n\n![Kanban Board](assets/images/kanbanui.png)\n![Dashboard](assets/images/dashboard.png)\n\n## Getting Started\n\n1. Clone the repository.\n2. Run `flutter pub get` to install dependencies.\n3. Launch the app with `flutter run -d linux` (or your platform).\n4. Add your projects and start managing them!\n",
+          "preview": "**brief_bird** is a Flutter desktop app designed to help developers efficiently manage their side projects. It leverages SQLite (via Drift) for local data storage and features a Kanban-style UI to visualize project status at a glance. The app is lightweight, launches automatically on startup, and pr",
           "headings": [
             "brief_bird",
-            "Information to Prioritize",
-            "UI Structure for the First Screen",
-            "**App Bar**",
-            "**Filter Tabs**",
-            "**Project Cards**",
-            "**Optional Enhancements**",
-            "Why This Works"
+            "Overview",
+            "Inspiration",
+            "Features",
+            "Technical Stack",
+            "Problems Solved",
+            "How It Works",
+            "Screenshots & Demo",
+            "Getting Started"
           ],
           "has_demo": false,
           "demo_url": null,
-          "word_count": 723
+          "word_count": 395
         },
         "assets": {
           "screenshots": [
+            "/home/jake/Desktop/brief_bird/assets/images/screenshot2.png",
             "/home/jake/Desktop/brief_bird/assets/images/logo.png",
-            "/home/jake/Desktop/brief_bird/assets/images/splash.png"
+            "/home/jake/Desktop/brief_bird/assets/images/screenshot1.png",
+            "/home/jake/Desktop/brief_bird/assets/images/splash.png",
+            "/home/jake/Desktop/brief_bird/assets/images/dashboard.png"
           ],
           "logo": null,
-          "thumbnail": "/home/jake/Desktop/brief_bird/assets/images/logo.png"
+          "thumbnail": "/home/jake/Desktop/brief_bird/assets/images/screenshot2.png"
         },
         "git": {
           "is_repo": true,
@@ -4669,7 +4815,7 @@
         },
         "stats": {
           "lines_of_code": 9402,
-          "file_count": 237,
+          "file_count": 241,
           "has_tests": true,
           "test_coverage": null,
           "has_ci": false,
@@ -4686,14 +4832,14 @@
         },
         "timestamps": {
           "created": "2025-09-27T13:16:45+03:00",
-          "modified": "2025-09-27T13:15:00.703509",
-          "last_scanned": "2025-09-30T15:46:28.252626"
+          "modified": "2025-10-02T13:13:52.985545",
+          "last_scanned": "2025-10-02T13:32:44.751521"
         }
       }
     },
     "/home/jake/Desktop/joinclub": {
       "last_modified": "2025-06-24T17:00:24.533964",
-      "last_scanned": "2025-09-30T15:46:29.824115",
+      "last_scanned": "2025-10-02T13:32:44.997396",
       "project_data": {
         "id": "af57d15e5319",
         "name": "Joinclub",
@@ -4760,13 +4906,13 @@
         "timestamps": {
           "created": "2025-01-18T08:32:40+03:00",
           "modified": "2025-06-24T17:00:24.533964",
-          "last_scanned": "2025-09-30T15:46:29.824115"
+          "last_scanned": "2025-10-02T13:32:44.997396"
         }
       }
     },
     "/home/jake/Desktop/speedcart": {
       "last_modified": "2025-06-19T10:34:44.220253",
-      "last_scanned": "2025-09-30T15:46:31.397563",
+      "last_scanned": "2025-10-02T13:32:45.289698",
       "project_data": {
         "id": "8170456f1039",
         "name": "Speedcart",
@@ -4833,13 +4979,13 @@
         "timestamps": {
           "created": "2025-06-18T12:50:23+03:00",
           "modified": "2025-06-19T10:34:44.220253",
-          "last_scanned": "2025-09-30T15:46:31.397563"
+          "last_scanned": "2025-10-02T13:32:45.289698"
         }
       }
     },
     "/home/jake/Desktop/BoardMio": {
       "last_modified": "2025-08-26T15:40:05.711597",
-      "last_scanned": "2025-09-30T15:46:31.406764",
+      "last_scanned": "2025-10-02T13:32:45.292024",
       "project_data": {
         "id": "e6a5a8a420ec",
         "name": "Ganjiboard Web",
@@ -4920,13 +5066,13 @@
         "timestamps": {
           "created": "2025-08-26T15:40:05.711597",
           "modified": "2025-08-26T15:40:05.711597",
-          "last_scanned": "2025-09-30T15:46:31.406764"
+          "last_scanned": "2025-10-02T13:32:45.292024"
         }
       }
     },
     "/home/jake/Desktop/poli_list": {
       "last_modified": "2024-12-23T15:41:32.073042",
-      "last_scanned": "2025-09-30T15:46:32.672023",
+      "last_scanned": "2025-10-02T13:32:45.553009",
       "project_data": {
         "id": "093050df3e5c",
         "name": "Polilist",
@@ -4993,13 +5139,13 @@
         "timestamps": {
           "created": "2024-12-23T14:39:13+03:00",
           "modified": "2024-12-23T15:41:32.073042",
-          "last_scanned": "2025-09-30T15:46:32.672023"
+          "last_scanned": "2025-10-02T13:32:45.553009"
         }
       }
     },
     "/home/jake/Desktop/old_auto_tool": {
       "last_modified": "2025-06-21T22:23:29.972548",
-      "last_scanned": "2025-09-30T15:46:32.675069",
+      "last_scanned": "2025-10-02T13:32:45.554214",
       "project_data": {
         "id": "d4252fca145e",
         "name": "Auto Tool",
@@ -5066,13 +5212,13 @@
         "timestamps": {
           "created": "2025-06-21T22:23:29.972548",
           "modified": "2025-06-21T22:23:29.972548",
-          "last_scanned": "2025-09-30T15:46:32.675069"
+          "last_scanned": "2025-10-02T13:32:45.554214"
         }
       }
     },
     "/home/jake/Desktop/devbrief": {
       "last_modified": "2025-07-13T22:01:59.649148",
-      "last_scanned": "2025-09-30T15:46:33.802718",
+      "last_scanned": "2025-10-02T13:32:45.781371",
       "project_data": {
         "id": "4191d860d8fb",
         "name": "Devbrief",
@@ -5141,13 +5287,13 @@
         "timestamps": {
           "created": "2025-07-13T13:42:13+03:00",
           "modified": "2025-07-13T22:01:59.649148",
-          "last_scanned": "2025-09-30T15:46:33.802718"
+          "last_scanned": "2025-10-02T13:32:45.781371"
         }
       }
     },
     "/home/jake/Desktop/SlipKitchen": {
       "last_modified": "2025-08-15T18:27:32.133313",
-      "last_scanned": "2025-09-30T15:46:35.974013",
+      "last_scanned": "2025-10-02T13:32:46.189246",
       "project_data": {
         "id": "307c0e257b4a",
         "name": "Slipkitchen Ke",
@@ -5225,7 +5371,7 @@
         "timestamps": {
           "created": "2025-07-24T17:13:04+03:00",
           "modified": "2025-08-15T18:27:32.133313",
-          "last_scanned": "2025-09-30T15:46:35.974013"
+          "last_scanned": "2025-10-02T13:32:46.189246"
         }
       }
     }

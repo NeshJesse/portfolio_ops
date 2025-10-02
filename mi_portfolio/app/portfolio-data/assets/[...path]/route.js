@@ -4,7 +4,7 @@ import path from "path";
 export async function GET(request, { params }) {
   const segments = Array.isArray(params?.path) ? params.path : [];
 
-  const baseDir = path.resolve(process.cwd(), "..", "portfolio-data", "assets");
+  const baseDir = path.resolve(process.cwd(), "..", "portfolio_cli", "portfolio-data", "assets");
   const targetPath = path.resolve(baseDir, ...segments);
 
   if (!targetPath.startsWith(baseDir)) {

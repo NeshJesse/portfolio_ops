@@ -15,8 +15,8 @@ The app is designed to run with your existing CLI workflow and without copying d
 
 - `app/page.jsx`: Homepage; renders the project grid.
 - `app/projects/[slug]/page.jsx`: Project detail route with static params and README rendering.
-- `app/portfolio-data/projects.json/route.js`: Serves `../portfolio-data/projects.json` during dev.
-- `app/portfolio-data/assets/[...path]/route.js`: Streams files from `../portfolio-data/assets/*` during dev.
+- `app/portfolio-data/projects.json/route.js`: Serves `../portfolio_cli/portfolio-data/projects.json` during dev.
+- `app/portfolio-data/assets/[...path]/route.js`: Streams files from `../portfolio_cli/portfolio-data/assets/*` during dev.
 - `components/ProjectCard.jsx`: Card UI for a single project.
 - `components/ProjectGrid.jsx`: Responsive grid rendering the card list.
 - `lib/projects.jsx`: Data loader; reads JSON from filesystem or via route; provides helpers.
@@ -33,7 +33,7 @@ The app is designed to run with your existing CLI workflow and without copying d
   - The loader also supports an object shape `{ meta, projects: [...] }`.
 - Assets: `portfolio-data/assets/` holds `screenshots`, `logo`, `thumbnail`, etc.
 
-During development (`npm run dev`), the frontend reads directly from your repository’s `../portfolio-data` folder via:
+During development (`npm run dev`), the frontend reads directly from your repository’s `../portfolio_cli/portfolio-data` folder via:
 - `/portfolio-data/projects.json` → `app/portfolio-data/projects.json/route.js`
 - `/portfolio-data/assets/*` → `app/portfolio-data/assets/[...path]/route.js`
 
@@ -50,7 +50,7 @@ Exports:
 - `getMeta()`: Returns meta if present, otherwise `{}`.
 
 Resolution strategy:
-- During SSR/build: tries reading `../portfolio-data/projects.json` from disk.
+- During SSR/build: tries reading `../portfolio_cli/portfolio-data/projects.json` from disk.
 - Fallback: fetches from `GET /portfolio-data/projects.json` (served by the app route).
 - Handles both a root array and `{ meta, projects }`.
 
@@ -63,7 +63,7 @@ Environment:
 
 - Homepage (`app/page.jsx`)
   - Calls `getProjects()` server-side.
-  - Renders `ProjectGrid` with all projects.
+  - Renders `OfficialProjects` section if curated selection exists, and full `ProjectGrid`.
 - Project detail (`app/projects/[slug]/page.jsx`)
   - `generateStaticParams()` uses `getProjectSlugs()` for static params.
   - Uses async `params` per Next.js 15: destructures `slug` from `await params`.
@@ -105,7 +105,7 @@ You can add a `FilterBar` later to enable search/filter/sort (tags, language, ty
 ## Assets Handling
 
 - The project page and cards reference asset paths as they appear in `projects.json` (e.g. `assets/...`).
-- Dev routes map these to the repo’s `../portfolio-data/assets/*` so `<img src={`/${src}`}>` works without copying.
+- Dev routes map these to the repo’s `../portfolio_cli/portfolio-data/assets/*` so `<img src={`/${src}`}>` works without copying.
 - `next.config.mjs` sets `images.unoptimized = true`, which is friendlier for static assets or if you later switch to `next/image`.
 
 Production note:
@@ -132,7 +132,7 @@ Optional environment variable:
 
 Terminal 1 (scanner):
 - `python3 portfolio.py generate` or `python3 portfolio.py update`
-  - This writes `portfolio-data/projects.json` and asset files.
+  - This writes `portfolio_cli/portfolio-data/projects.json` and asset files inside the `portfolio_cli` folder.
 
 Terminal 2 (frontend):
 - `cd /home/jake/Desktop/portfolio_ops/mi_portfolio`
@@ -149,6 +149,12 @@ The dev server watches your Next.js code; the API routes read fresh JSON and fil
   - Update `ProjectCard.jsx` and/or `app/projects/[slug]/page.jsx` to render additional fields (e.g., commit count, category).
 - Change data shape:
   - `lib/projects.jsx` is the only place to adjust parsing for different JSON structures.
+  
+- Curation workflow:
+  - `app/curate/page.jsx` provides a UI to select official projects.
+  - `app/official-projects/route.js` persists selections to `../portfolio_cli/portfolio-data/official-projects.json`.
+  - `lib/official.js` provides `getOfficialSlugs()` and `getOfficialProjects()`.
+  - `components/OfficialProjects.jsx` renders curated projects on the homepage.
 - Add filtering/sorting:
   - Create `components/FilterBar.jsx` (client component) and apply filters to the list before passing to `ProjectGrid`.
 - Improve SEO:

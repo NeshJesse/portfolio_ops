@@ -10,10 +10,7 @@ export default function ProjectCard({ project }) {
   return (
     <Link href={`/projects/${slug}`} className="block rounded-lg border border-black/10 dark:border-white/10 p-4 hover:shadow-sm transition">
       <div className="flex flex-col gap-3">
-        {screenshot ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img src={`/${screenshot}`} alt={name} className="w-full h-40 object-cover rounded" />
-        ) : null}
+       
         <div className="flex items-center justify-between">
           <h3 className="font-semibold text-base">{name}</h3>
           {featured ? (
