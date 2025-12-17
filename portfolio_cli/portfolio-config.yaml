@@ -17,7 +17,7 @@ scanner:
     go: ["go.mod"]
 
 output:
-  data_dir: "./portfolio-data"
+  data_dir: "../frontend/public/portfolio-data"
   copy_assets: true
   max_asset_size_mb: 5
 

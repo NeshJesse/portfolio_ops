@@ -1,0 +1,18 @@
+[
+  {
+    "id": "senior-developer-2024",
+    "role": "Senior Full Stack Developer",
+    "company": "TechCorp Solutions",
+    "period": "2022 - Present",
+    "summary": "Leading development of enterprise web applications using React, Node.js, and cloud technologies. Mentoring junior developers and implementing best practices for code quality and deployment automation."
+  },
+
+
+  {
+    "id": "freelance-2019",
+    "role": "Freelance Developer",
+    "company": "Self-Employed",
+    "period": "2018 - 2019",
+    "summary": "Worked with small businesses to build custom web solutions and mobile apps. Gained experience in project management, client communication, and full-stack development."
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "languages": [
+    "JavaScript", 
+    "Python",
+    "Dart/Flutter",
+    "C & C++"
+  ],
+  "frontends" :[
+    "Tailwind CSS",
+    "React JS",
+    "Next JS"
+  ],
+  "backends" :[
+    "Node JS(Intermediate)",
+    "Flask(Basic)",
+    "Django(Basic)"
+  ],
+  "databases":[
+    "Supabase",
+    "SQLite",
+    "IndexedDB",
+    "MongoDB"
+  ],
+  "mobile dev" : [
+     "Flutter",
+    "React Native"
+  ],
+  "tools": [
+    "Git",
+    "Docker",
+    "AWS",
+    "Vercel",
+    "REST APIs",
+    "Webpack",
+    "Vite"
+  ]
+}

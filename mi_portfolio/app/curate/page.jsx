@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import PasswordGate from "@/components/PasswordGate";
 
 export default function CuratePage() {
   const [projects, setProjects] = useState([]);
@@ -89,6 +90,7 @@ export default function CuratePage() {
   }
 
   return (
+    <PasswordGate title="Curate Official Projects">
     <div className="max-w-5xl mx-auto p-6 space-y-6">
       <header className="space-y-2">
         <h1 className="text-2xl font-bold">Curate Official Projects</h1>
@@ -129,6 +131,7 @@ export default function CuratePage() {
         </div>
       )}
     </div>
+    </PasswordGate>
   );
 }
 
