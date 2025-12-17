@@ -1,81 +1,258 @@
-## Portfolio-OPs + mi_portfolio
+# Portfolio-OPs
 
-Build a living, auto-updating developer portfolio with zero manual data entry.
 
-### What it is
-- **Portfolio-OPs (Python CLI)** scans your Desktop (or any path), detects real projects, extracts metadata/README/screenshots/git stats, and exports a clean `projects.json` + assets.
-- **mi_portfolio (Next.js app)** renders that data into a fast, modern portfolio site: project grid, detail pages, markdown README, and screenshots.
+### 🚀 Portfolio-OPs — Automated Developer Portfolio Engine
 
-Together, they turn your actual work into a polished, always-current portfolio.
+**Portfolio-OPs** is a zero-configuration Python CLI that automatically turns your local coding projects into a structured, production-ready portfolio.
 
-### Why you’ll love it
-- **Zero copy-paste**: Your READMEs become project descriptions automatically.
-- **Always up-to-date**: One command refreshes data; the site reflects changes instantly in dev.
-- **Real signals**: Git activity, tags, categories, screenshots—no fluff.
-- **Own your data**: Plain JSON + local assets. Portable, inspectable, versionable.
+Instead of manually curating projects, screenshots, and descriptions, Portfolio-OPs scans your machine, understands your work, and generates clean data that powers a modern **Next.js portfolio website**.
 
-### How it works (concept)
-1) You code as usual in your local projects.
-2) Portfolio-OPs scans and exports data to `portfolio-data/`:
-   - `portfolio-data/projects.json`
-   - `portfolio-data/assets/` (screenshots, logos, thumbnails)
-3) mi_portfolio reads this data and renders your site:
-   - `/` → Project grid
-   - `/projects/[slug]` → Detail page with README and gallery
+---
 
-### Quick start
+### 🎯 Problem It Solves
+
+Developers often:
+
+* Forget to update their portfolio
+* Have dozens of unfinished or hidden projects
+* Duplicate effort between GitHub, READMEs, and portfolio sites
+
+**Portfolio-OPs solves this by making your portfolio a by-product of your daily coding work.**
+
+---
+
+### ✨ Key Capabilities
+
+* **Zero Configuration** – Works out of the box
+* **Automatic Project Detection** – React, Python, Flutter, CLI tools, and more
+* **Markdown-First** – Uses your existing README files as project descriptions
+* **Git-Aware** – Tracks activity, commit counts, and last updates
+* **Incremental Updates** – Re-scans only changed projects (fast)
+* **Frontend-Ready Output** – Generates structured JSON consumed by a Next.js site
+
+---
+
+### 🧠 How It Works (High Level)
+
+1. Scans your Desktop (or Projects folder)
+2. Detects valid software projects
+3. Extracts:
+
+   * Tech stack
+   * README content
+   * Screenshots & assets
+   * Git metadata
+4. Outputs a clean `projects.json`
+5. Next.js frontend renders everything automatically
+
+Your portfolio updates in seconds — no manual editing.
+
+---
+
+### 🧱 Tech Stack
+
+* **Backend / CLI**: Python 3.8+
+* **Frontend**: Next.js (App Router) + Tailwind CSS
+* **Data Format**: JSON + Markdown
+* **Git Integration**: GitPython
+
+---
+
+### 📸 Example Output
+
+Each project includes:
+
+* Description (from README)
+* Screenshots & gallery
+* Tech stack & tags
+* GitHub link
+* Last updated date
+* Project status (Active / Archived)
+
+---
+
+### 🧩 Why This Matters
+
+This project demonstrates:
+
+* Systems thinking
+* Automation-first mindset
+* Developer Experience (DX) focus
+* Clean separation between data and UI
+* Real-world tooling, not toy examples
+
+---
+
+### 🔗 Usage Snapshot
+
 ```bash
-# 1) Install Python deps
-pip3 install -r requirements.txt
-
-# 2) First-time setup
 python3 portfolio.py init
-
-# 3) Generate data
-python3 portfolio.py generate      # or: python3 portfolio.py update
-
-# 4) Run the frontend
-cd mi_portfolio
-npm install
-npm run dev
-# Open http://localhost:3000
-```
-
-In development, the frontend reads directly from `portfolio-data/` (no copy step).
-
-### Daily workflow
-```bash
-# Work on projects as usual, commit, push...
-
-# Refresh portfolio data
 python3 portfolio.py update
-
-# Frontend is already running at http://localhost:3000
-# Refresh the browser to see changes
 ```
 
-### Features at a glance
-- Auto-detection of project types (JS/Python/etc.)
-- README → Markdown rendering with code highlighting
-- Screenshots and logos gallery
-- Git stats: last commit, commit count, branch
-- Featured flags, categories, tags
-- Extensible UI (filters, search, badges)
+Your portfolio is now up to date.
 
-### Production options
-- Copy `portfolio-data/` into `mi_portfolio/public/portfolio-data/` during CI
-- Or keep server routes that read from a mounted `portfolio-data/` directory
+---
 
-### Customize
-- Update cards and detail UI in `mi_portfolio/components/` and `app/`
-- Adjust data parsing in `mi_portfolio/lib/projects.jsx`
-- Add filters/search, badges, and layout to fit your brand
+### 📌 Ideal For
 
-### Where to look next
-- `portfolio_ops/` → Scanner logic, detectors, README parsing, git analysis
-- `portfolio-data/` → Output JSON + assets
-- `mi_portfolio/tech.md` → Deep technical docs for the frontend
+* Software engineers
+* Frontend developers
+* Developer advocates
+* Anyone tired of manually maintaining portfolios
 
-Build once, keep shipping—your portfolio stays fresh.
+---
 
-**Happy Portfolio Building! 🚀**
+### 📄 License
+
+MIT
+
+---
+
+## VERSION 2: Developer-Friendly README
+
+### ⚙️ Portfolio-OPs — Portfolio Operations CLI
+
+Portfolio-OPs is a **Python-based project scanner and data pipeline** that converts local development folders into structured portfolio data.
+
+It is designed to be:
+
+* Zero-config
+* Incremental
+* Git-aware
+* Frontend-agnostic
+
+---
+
+### 🗂 Core Workflow
+
+```text
+Local Projects → Scanner → Metadata + README + Assets → JSON → Frontend
+```
+
+---
+
+### 🛠 Features
+
+* Recursive project scanning
+* Language & framework detection
+* README parsing (Markdown-first)
+* Screenshot & asset discovery
+* Git metadata extraction
+* Incremental updates using cache
+* CLI-based curation (feature, hide, categorize)
+
+---
+
+### 📁 Project Structure
+
+```text
+portfolio-ops/
+├── portfolio.py            # CLI entry point
+├── portfolio_ops/
+│   ├── scanner.py
+│   ├── detectors.py
+│   ├── readme_parser.py
+│   ├── asset_finder.py
+│   ├── git_analyzer.py
+│   ├── data_manager.py
+│   └── config.py
+├── portfolio-data/
+│   ├── projects.json
+│   ├── cache.json
+│   └── assets/
+└── requirements.txt
+```
+
+---
+
+### 🧪 Incremental Scan Logic
+
+```python
+if project_unchanged:
+    skip()
+else:
+    rescan()
+```
+
+Only modified projects are reprocessed, keeping updates fast even with many repositories.
+
+---
+
+### 📄 CLI Commands
+
+```bash
+python3 portfolio.py init
+python3 portfolio.py generate
+python3 portfolio.py update
+python3 portfolio.py list
+python3 portfolio.py show <project>
+python3 portfolio.py feature <project>
+python3 portfolio.py categorize <project> "Web Development"
+```
+
+---
+
+### 📦 Output Schema (Simplified)
+
+```json
+{
+  "projects": [
+    {
+      "name": "My Project",
+      "metadata": { "language": "Python" },
+      "readme": { "content": "..." },
+      "git": { "remote_url": "..." },
+      "assets": { "screenshots": [] }
+    }
+  ]
+}
+```
+
+---
+
+### 🌐 Frontend Integration
+
+Portfolio-OPs outputs static JSON and assets designed to be consumed by:
+
+* Next.js
+* Astro
+* Remix
+* Any static site generator
+
+No backend required.
+
+---
+
+### 🧩 Design Principles
+
+* Configuration should be optional
+* README is the source of truth
+* Git activity signals project quality
+* Data > presentation
+* Fast feedback loops
+
+---
+
+### 🚧 Roadmap
+
+* GitHub API enrichment (stars, forks)
+* AI-generated descriptions for missing READMEs
+* Auto-screenshots for web projects
+* Plugin system for new detectors
+
+---
+
+### 🤝 Contributing
+
+PRs welcome. Focus areas:
+
+* New language detectors
+* Performance improvements
+* Schema evolution
+
+---
+
+### 📄 License
+
+MIT
